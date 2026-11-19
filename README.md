@@ -23,3 +23,17 @@ Example output: [`examples/demo.mp4`](examples/demo.mp4), rendered from [`scenes
 ## Using these skills in another project
 
 Copy a skill folder into that project's `.claude/skills/`, or into `~/.claude/skills/` to have it in every project.
+
+## Video toolkit
+
+`./setup.sh` installs everything. It also runs automatically, through a SessionStart hook in `.claude/settings.json`, whenever a Claude Code session opens this repo.
+
+| Tool | Use |
+|---|---|
+| ffmpeg | Encode, cut, mix audio, convert |
+| [HyperFrames](https://www.npmjs.com/package/hyperframes) | HTML → MP4 video (`npx hyperframes`) |
+| [GSAP](https://gsap.com) | Timeline animation for HTML/SVG/Three.js scenes |
+| [Remotion](https://www.remotion.dev) | React → video (`npx remotion`) |
+| Three.js | 3D scenes (see the `threejs-3d-video` skill) |
+| yt-dlp | Download reference video/audio (needs network access to the site) |
+| earshot | Voice-activity detection, e.g. to find and cut silences |
