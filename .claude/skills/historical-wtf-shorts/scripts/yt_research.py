@@ -121,7 +121,9 @@ def channel_baseline(channel_url, limit=30):
 
 
 def collect(a):
-    data = json.load(open(a.out)) if os.path.exists(a.out) else {"videos": {}, "channels": {}}
+    a.out = os.path.abspath(a.out)
+    os.makedirs(os.path.dirname(a.out), exist_ok=True)
+    data =json.load(open(a.out)) if os.path.exists(a.out) else {"videos": {}, "channels": {}}
     ids = []
     if a.ids:
         for line in open(a.ids):
