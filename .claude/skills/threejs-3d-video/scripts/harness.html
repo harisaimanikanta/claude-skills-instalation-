@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>html,body{margin:0;background:#000;overflow:hidden}canvas{display:block}</style>
+<script type="importmap">
+{ "imports": {
+    "three": "/three/build/three.module.js",
+    "three/addons/": "/three/examples/jsm/"
+} }
+</script>
+</head>
+<body>
+<canvas id="c"></canvas>
+<script type="module">
+  import * as THREE from 'three';
+  const params = new URLSearchParams(location.search);
+  const width = +params.get('w'), height = +params.get('h');
+  const canvas = document.getElementById('c');
+  canvas.width = width; canvas.height = height;
+  canvas.style.width = width + 'px'; canvas.style.height = height + 'px';
+  try {
+    const mod = await import('/scene/' + params.get('scene'));
+    const scene = await mod.setup({ THREE, canvas, width, height });
+    window.__duration = mod.duration ?? 5;
+    window.renderFrame = async (t) => { await scene.render(t); };
+    window.__ready = true;
+  } catch (e) {
+    window.__error = String(e && e.stack || e);
+  }
+</script>
+</body>
+</html>
