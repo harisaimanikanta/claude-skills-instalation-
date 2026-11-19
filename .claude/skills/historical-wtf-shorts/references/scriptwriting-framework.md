@@ -2,12 +2,50 @@
 
 Voice: an intelligent friend telling the craziest true story they've ever heard. Spoken, not read.
 
-## Length
-Default 45–90 s. Narration speed ≈ 2.6–2.9 words/sec for this style (≈ 160–170 wpm).
-45 s ≈ 120 words · 60 s ≈ 160 words · 75 s ≈ 200 words · 90 s ≈ 240 words.
-Fit the story; never pad. A 40 s story told well beats a 70 s story stretched.
+## DEFAULT FORMAT: the True Mechanism Parable
+This is the owner's chosen style, reverse-engineered from five reference Shorts (6.8M–35.1M views). Full breakdown in
+`references/reference-style-analysis.md`. Use it for every script unless the user asks for another style.
 
-## Structure (a starting shape, not a cage)
+### Length & pace (measured on the references)
+**Target 60 s ≈ 210–230 words, spoken at ~3.5 words/s.** Range 55–65 s. Short sentences make the speed comfortable.
+Use `scripts/script_stats.py <file> --wps 3.5` for estimates.
+
+### Beat sheet (≈60 s)
+| Beat | Time | Words | What it does |
+|---|---|---|---|
+| 1 Cold-open action | 0–4 s | 10–17 | **"He [did a physical, absurd, visual thing]."** No name, no date, no place. Or a one-line paradox ("It's impossible to X, but Y found something way worse."). |
+| 2 Reaction | 4–7 s | 5–12 | Someone (or the viewer) reacts: laughs, doubts, mocks. Must be documented, or the viewer's own doubt. |
+| 3 "You see," | 7–12 s | 15–25 | **Starts with "You see,"**. Name, place, era and stakes, in 1–2 sentences. Only what's needed. |
+| 4 Mockery ladder | 12–35 s | 60–80 | Time markers ("Weeks later", "Then one night", "By July") drive 2–3 rounds of doubt or ridicule, each bigger. Concrete countable details. |
+| 5 Rule-of-three climax | 35–45 s | 25–35 | "Then X. Then another. Then all of them." Rising count into the moment it all flips. |
+| 6 Reversal | 45–50 s | 15–20 | The doubted side is proven right **at peak stakes**, using the real outcome. |
+| 7 Mechanism | 50–60 s | 30–40 | "It's called X." / "Inside the jar…". The *why*, physical and concrete, in 2–3 sentences. |
+| 8 Cut | last 1–2 s | — | **End on the strongest image or mid-thought. No moral, no CTA, no "and that's why".** Ideally the last line flows back into the hook. |
+
+The mechanism can move earlier (R5 names "salting" at 0:09) when the twist is *not* the mechanism but the outcome.
+
+### Voice rules for this format
+- Present tense for the story ("He loads the shotgun…"), or simple past. Pick one and keep it.
+- **"You see,"** exactly once, at the context beat. Use "So," "But," "Then," "Meanwhile," as the gears.
+- 2–3 short quoted lines max, from *side characters*, never exposition. Real quotes where they exist; see the True-Parable rules.
+- One comic side character or running gag if the record offers one.
+- Physical, countable specifics (coin → sheet of paper; last 100 bucks).
+
+### True-Parable rules (non-negotiable)
+The reference channel invents plot. **We don't.** Every beat is documented; reactions are recorded or are the viewer's own;
+illustrative lines are marked "dramatized" in `research.md` and the description; the reversal is the real outcome.
+See `reference-style-analysis.md` §5.
+
+---
+
+## Alternative: documentary format (use only when asked)
+The original 45–90 s structure below remains for stories that don't fit the parable engine.
+
+## Length (documentary format)
+45–90 s. Narration ≈ 2.7–3.0 words/sec. 60 s ≈ 170 words · 90 s ≈ 250 words.
+Fit the story; never pad.
+
+## Structure (documentary format)
 | Beat | Time | Job |
 |---|---|---|
 | 1 Hook | 0–3 s | The most unbelievable true element, stated plainly. Opens a gap the viewer needs closed. No intro, no "Did you know", no context. |
@@ -31,6 +69,7 @@ Proportions scale with total length.
 - End strong. Don't trail off into "and that's the story of…".
 
 ## Five hook types (generate one of each, every script)
+In the parable format, at least two of the five should be **cold-open actions** ("He …"), since that is the reference style's dominant opener.
 1. **Shock** - the most extreme true fact, bluntly. "In 1925, a man sold the Eiffel Tower."
 2. **Curiosity** - an open loop with a specific promise. "There's a reason no one ever reported the Eiffel Tower stolen."
 3. **Contradiction** - two facts that shouldn't both be true. "He was one of history's best con men - and his death certificate called him a salesman."

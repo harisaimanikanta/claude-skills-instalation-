@@ -22,6 +22,11 @@ Otherwise show this menu once and ask **"What historical WTF story are we making
 - **C** – Discover 10 new bizarre stories.
 - **D** – Discover stories in a category (cons, hoaxes, absurd wars, medical, impostors, trials, disasters, espionage…).
 - **R** – Run / refresh competitor research (updates the playbook).
+- **V** – Analyze specific videos the user pastes (frame-by-frame + transcript), e.g. new reference Shorts.
+
+**Default style = True Mechanism Parable** (the owner's reference Shorts, 6.8M–35.1M views): cold-open "He [absurd action]" →
+reaction → "You see," → mockery ladder with time jumps → rule-of-three → real reversal → mechanism → hard cut. ~60 s,
+~220 words. Read `references/reference-style-analysis.md` before writing. For ideas (C/D) follow `references/idea-engine.md`.
 
 Defaults (don't ask about these unless the user brings them up): 45–90 s, English, conversational
 narrator, 9:16, recommended hook pre-selected. Never ask what is already answered.
@@ -62,6 +67,12 @@ Follow `references/competitor-analysis-methodology.md`. Add rows to `research/co
 then update the playbook. Record the **access level** for every row (watched / transcript /
 metadata-only). Never fabricate views, transcripts or findings; never say a video was watched when
 only its title or description was seen. Revalidate any view count before quoting it.
+
+## Video analysis mode (V)
+For each URL: `python3 ${CLAUDE_SKILL_DIR}/scripts/storyboard.py <url> --out <scratch dir>` builds timestamped
+contact sheets (storyboard frames + spoken words) and a word-timed transcript; `yt_research.py collect --ids` gets the stats.
+View the sheets with Read, map the beats against the table in `reference-style-analysis.md`, fact-check the story,
+and add the result to that file. Access level = `storyboard+transcript` (not "watched"). Needs YouTube network access.
 
 ## Hard rules
 - Real, traceable stories only. Disputed ≠ confirmed. Legends are labelled as legends.

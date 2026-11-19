@@ -1,5 +1,11 @@
 # Viral Storytelling Playbook - Historical WTF Shorts
 
+> **Update 2026-11-19 (v2):** the channel's default style is now the **True Mechanism Parable**, reverse-engineered from five
+> owner-selected Shorts (6.8M–35.1M views) with word-timed transcripts and storyboard frames: see `reference-style-analysis.md`.
+> That analysis supersedes the [ASSUMPTION] items below wherever they conflict. Measured: ~60 s, 216–237 words, 3.3–3.8 words/s,
+> a cold-open "He…" action, "You see," context in all 5, mockery ladder, time jumps, reversal, mechanism last, hard cut with no CTA,
+> a new image every ~1.1–1.3 s. Round 2 (144 videos, real stats) is in `research/competitor-database.md`.
+
 Living document. Version 1 - 2026-11-19. Updated by competitor-research rounds (see `research/research-log.md`).
 
 > **Evidence status of v1.** The Round 1 sample is 64 Shorts at **metadata-only** access (titles + URLs from search;
