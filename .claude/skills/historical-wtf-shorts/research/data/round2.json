@@ -20,7 +20,8 @@
    "hook_3s": "Did you know that Australia once declared war?",
    "first_5s": "Did you know that Australia once declared war? Not against another country, but against",
    "word_count": 92,
-   "words_per_sec": 2.56
+   "words_per_sec": 2.56,
+   "outlier_ratio": 0.06
   },
   "G6aYCjv2a-k": {
    "id": "G6aYCjv2a-k",
@@ -42,7 +43,8 @@
    "hook_3s": "What happens when a nation declares war on birds >> and",
    "first_5s": "What happens when a nation declares war on birds >> and loses? In",
    "word_count": 189,
-   "words_per_sec": 2.23
+   "words_per_sec": 2.23,
+   "outlier_ratio": 1.68
   },
   "Yiqw468tqV8": {
    "id": "Yiqw468tqV8",
@@ -94,7 +96,8 @@
    "hook_3s": "This bird, quite literally, went to war with the Australian government",
    "first_5s": "This bird, quite literally, went to war with the Australian government and somehow even won.",
    "word_count": 170,
-   "words_per_sec": 3.01
+   "words_per_sec": 3.01,
+   "outlier_ratio": 0.76
   },
   "wGcI9NBfj1w": {
    "id": "wGcI9NBfj1w",
@@ -116,12 +119,14 @@
    "hook_3s": "Even when the bullets hit them, they kept running, like tanks with",
    "first_5s": "Even when the bullets hit them, they kept running, like tanks with feathers. Traps failed,",
    "word_count": 118,
-   "words_per_sec": 2.28
+   "words_per_sec": 2.28,
+   "outlier_ratio": 2.01
   },
   "Nwwc5Hoc_k8": {
    "id": "Nwwc5Hoc_k8",
    "url": "https://www.youtube.com/shorts/Nwwc5Hoc_k8",
-   "error": "unavailable"
+   "error": "unavailable",
+   "outlier_ratio": null
   },
   "xrtQppbv-uI": {
    "id": "xrtQppbv-uI",
@@ -157,7 +162,8 @@
    "hook_3s": "Australia didn't officially declare war on",
    "first_5s": "Australia didn't officially declare war on emus, but in 1932,",
    "word_count": 86,
-   "words_per_sec": 2.43
+   "words_per_sec": 2.43,
+   "outlier_ratio": 0.45
   },
   "BkPXmX2rTL8": {
    "id": "BkPXmX2rTL8",
@@ -179,7 +185,8 @@
    "hook_3s": "Imagine a nation at war, not with another country, but",
    "first_5s": "Imagine a nation at war, not with another country, but with giant birds.",
    "word_count": 89,
-   "words_per_sec": 2.62
+   "words_per_sec": 2.62,
+   "outlier_ratio": 0.04
   },
   "EXTXllAFiek": {
    "id": "EXTXllAFiek",
@@ -210,7 +217,8 @@
    "hook_3s": "In 1932, the Australian military deployed",
    "first_5s": "In 1932, the Australian military deployed soldiers with machine guns to control a population",
    "word_count": 28,
-   "words_per_sec": 2.87
+   "words_per_sec": 2.87,
+   "outlier_ratio": 1.07
   },
   "jtGZKKq3mzI": {
    "id": "jtGZKKq3mzI",
@@ -248,7 +256,8 @@
    "hook_3s": "in 1932 Australia faced an unexpected enemy",
    "first_5s": "in 1932 Australia faced an unexpected enemy emu yes",
    "word_count": 92,
-   "words_per_sec": 2.58
+   "words_per_sec": 2.58,
+   "outlier_ratio": 1.15
   },
   "dVP1tA-7jDM": {
    "id": "dVP1tA-7jDM",
@@ -272,7 +281,8 @@
    "hook_3s": "Soldiers with machine guns face off against giant",
    "first_5s": "Soldiers with machine guns face off against giant birds? Welcome to",
    "word_count": 176,
-   "words_per_sec": 2.2
+   "words_per_sec": 2.2,
+   "outlier_ratio": 1.23
   },
   "ftuzsJsmVbE": {
    "id": "ftuzsJsmVbE",
@@ -314,7 +324,8 @@
    "hook_3s": "in medieval Italy city states often clashed over territory",
    "first_5s": "in medieval Italy city states often clashed over territory and honor one of the most unusual",
    "word_count": 165,
-   "words_per_sec": 2.83
+   "words_per_sec": 2.83,
+   "outlier_ratio": 1.45
   },
   "K7lM_nWp_k0": {
    "id": "K7lM_nWp_k0",
@@ -336,7 +347,8 @@
    "hook_3s": "We're jumping into the year 1325 and the Italian cities",
    "first_5s": "We're jumping into the year 1325 and the Italian cities of Modena and Bologna. And now these",
    "word_count": 224,
-   "words_per_sec": 3.11
+   "words_per_sec": 3.11,
+   "outlier_ratio": 0.39
   },
   "2Rh8dTMvNCE": {
    "id": "2Rh8dTMvNCE",
@@ -365,7 +377,8 @@
    "hook_3s": "Humanity has gone to war for many stupid [music] reasons. Women,",
    "first_5s": "Humanity has gone to war for many stupid [music] reasons. Women, religion,",
    "word_count": 220,
-   "words_per_sec": 2.84
+   "words_per_sec": 2.84,
+   "outlier_ratio": 5.96
   },
   "u4mtQZNA6KA": {
    "id": "u4mtQZNA6KA",
@@ -389,7 +402,8 @@
    "hook_3s": "",
    "first_5s": "",
    "word_count": 0,
-   "words_per_sec": null
+   "words_per_sec": null,
+   "outlier_ratio": 2.17
   },
   "uf0E_p7YYxM": {
    "id": "uf0E_p7YYxM",
@@ -411,7 +425,8 @@
    "hook_3s": "",
    "first_5s": "",
    "word_count": 0,
-   "words_per_sec": null
+   "words_per_sec": null,
+   "outlier_ratio": 3.98
   },
   "VR_sZ_NUaR4": {
    "id": "VR_sZ_NUaR4",
@@ -451,7 +466,8 @@
    "hook_3s": "Imagine going to war not for land, not for gold, but",
    "first_5s": "Imagine going to war not for land, not for gold, but for a bucket. Back",
    "word_count": 128,
-   "words_per_sec": 2.43
+   "words_per_sec": 2.43,
+   "outlier_ratio": 2.02
   },
   "vWwWnklw3UI": {
    "id": "vWwWnklw3UI",
@@ -506,7 +522,8 @@
    "hook_3s": "In 1325, two Italian cities fought",
    "first_5s": "In 1325, two Italian cities fought a battle the people still call the War",
    "word_count": 129,
-   "words_per_sec": 2.78
+   "words_per_sec": 2.78,
+   "outlier_ratio": 0.26
   },
   "P0Nmd42fp0M": {
    "id": "P0Nmd42fp0M",
@@ -528,7 +545,8 @@
    "hook_3s": "You [music] won't believe this. Thousands of",
    "first_5s": "You [music] won't believe this. Thousands of people were killed because of a single",
    "word_count": 123,
-   "words_per_sec": 2.42
+   "words_per_sec": 2.42,
+   "outlier_ratio": 0.21
   },
   "Te0eLPBnVXI": {
    "id": "Te0eLPBnVXI",
@@ -550,7 +568,8 @@
    "hook_3s": "throughout history some Wars have been sparked by the most unlikely",
    "first_5s": "throughout history some Wars have been sparked by the most unlikely and trivial events one of the oddest",
    "word_count": 216,
-   "words_per_sec": 3.2
+   "words_per_sec": 3.2,
+   "outlier_ratio": 0.25
   },
   "_l5yugYsV40": {
    "id": "_l5yugYsV40",
@@ -572,7 +591,8 @@
    "hook_3s": "He leaned across the table and told the scrap metal dealers that the",
    "first_5s": "He leaned across the table and told the scrap metal dealers that the Eiffel Tower was coming down and that one",
    "word_count": 528,
-   "words_per_sec": 3.35
+   "words_per_sec": 3.35,
+   "outlier_ratio": 3.25
   },
   "D57hvYws3ds": {
    "id": "D57hvYws3ds",
@@ -610,7 +630,8 @@
    "hook_3s": "Paris, 1925.",
    "first_5s": "Paris, 1925. Five of the city's wealthiest",
    "word_count": 197,
-   "words_per_sec": 2.31
+   "words_per_sec": 2.31,
+   "outlier_ratio": 0.43
   },
   "q5hqKfX-OE4": {
    "id": "q5hqKfX-OE4",
@@ -653,12 +674,14 @@
    "hook_3s": "Imagine selling the Eiffel [ __ ] Tower, and it works so well",
    "first_5s": "Imagine selling the Eiffel [ __ ] Tower, and it works so well you sell it again. May 1925,",
    "word_count": 297,
-   "words_per_sec": 3.99
+   "words_per_sec": 3.99,
+   "outlier_ratio": 0.71
   },
   "c0etN7vonEE": {
    "id": "c0etN7vonEE",
    "url": "https://www.youtube.com/shorts/c0etN7vonEE",
-   "error": "unavailable"
+   "error": "unavailable",
+   "outlier_ratio": null
   },
   "r3PbU8OpuMk": {
    "id": "r3PbU8OpuMk",
@@ -693,7 +716,8 @@
    "hook_3s": "When he tried to sell the Eiffel Tower again, a dealer went",
    "first_5s": "When he tried to sell the Eiffel Tower again, a dealer went to the police. The first time, it worked.",
    "word_count": 139,
-   "words_per_sec": 3.03
+   "words_per_sec": 3.03,
+   "outlier_ratio": 1.0
   },
   "MGwaDdeIvCs": {
    "id": "MGwaDdeIvCs",
@@ -715,7 +739,8 @@
    "hook_3s": "Victor Lustig was quite the con artist.",
    "first_5s": "Victor Lustig was quite the con artist. What did he sell not",
    "word_count": 15,
-   "words_per_sec": 2.29
+   "words_per_sec": 2.29,
+   "outlier_ratio": 1.3
   },
   "HXvSddgOTYM": {
    "id": "HXvSddgOTYM",
@@ -737,7 +762,8 @@
    "hook_3s": "How do you sell the Eiffel Tower when you don't",
    "first_5s": "How do you sell the Eiffel Tower when you don't own a single piece of it?",
    "word_count": 401,
-   "words_per_sec": 2.25
+   "words_per_sec": 2.25,
+   "outlier_ratio": 0.73
   },
   "cAtPVxkvKR8": {
    "id": "cAtPVxkvKR8",
@@ -786,7 +812,8 @@
    "hook_3s": "What if I told you that a guy illegally sold the",
    "first_5s": "What if I told you that a guy illegally sold the Eiffel Tower not once",
    "word_count": 465,
-   "words_per_sec": 2.68
+   "words_per_sec": 2.68,
+   "outlier_ratio": 0.22
   },
   "rabLpuAJJ3M": {
    "id": "rabLpuAJJ3M",
@@ -825,7 +852,8 @@
    "hook_3s": "in 1925 upkeep on the Eiffel Tower was",
    "first_5s": "in 1925 upkeep on the Eiffel Tower was getting expensive and the newspapers were talking",
    "word_count": 171,
-   "words_per_sec": 3.68
+   "words_per_sec": 3.68,
+   "outlier_ratio": 0.33
   },
   "yNzdxKCMqPA": {
    "id": "yNzdxKCMqPA",
@@ -847,7 +875,8 @@
    "hook_3s": "Imagine this. [music] It's July 15, 1818, in the city of Strasbourg.",
    "first_5s": "Imagine this. [music] It's July 15, 1818, in the city of Strasbourg. A woman named Frau Troffea",
    "word_count": 181,
-   "words_per_sec": 3.11
+   "words_per_sec": 3.11,
+   "outlier_ratio": 0.01
   },
   "d5et7IpEWjA": {
    "id": "d5et7IpEWjA",
@@ -869,7 +898,8 @@
    "hook_3s": "this is the story of one of the strangest plagues that have ever",
    "first_5s": "this is the story of one of the strangest plagues that have ever happened in the summer of 1518",
    "word_count": 223,
-   "words_per_sec": 3.78
+   "words_per_sec": 3.78,
+   "outlier_ratio": 6.42
   },
   "jg5uJLjxrd0": {
    "id": "jg5uJLjxrd0",
@@ -907,7 +937,8 @@
    "hook_3s": "400 people danced until they [music] died.",
    "first_5s": "400 people danced until they [music] died. This wasn't supposed to happen.",
    "word_count": 113,
-   "words_per_sec": 1.92
+   "words_per_sec": 1.92,
+   "outlier_ratio": 3.95
   },
   "y3whGckwBpU": {
    "id": "y3whGckwBpU",
@@ -950,7 +981,8 @@
    "hook_3s": "did you know that one of the most bizarre historical events",
    "first_5s": "did you know that one of the most bizarre historical events involved the dancing plague of 1518",
    "word_count": 104,
-   "words_per_sec": 2.79
+   "words_per_sec": 2.79,
+   "outlier_ratio": 1.0
   },
   "cquvAN3evSQ": {
    "id": "cquvAN3evSQ",
@@ -972,7 +1004,8 @@
    "hook_3s": "July 14th, 1518.",
    "first_5s": "July 14th, 1518. In Strasbourg,",
    "word_count": 127,
-   "words_per_sec": 1.9
+   "words_per_sec": 1.9,
+   "outlier_ratio": 1.0
   },
   "fO-wUtwReLU": {
    "id": "fO-wUtwReLU",
@@ -1003,12 +1036,14 @@
    "hook_3s": "Strasbourg, 1518. One woman started",
    "first_5s": "Strasbourg, 1518. One woman started",
    "word_count": 42,
-   "words_per_sec": 1.42
+   "words_per_sec": 1.42,
+   "outlier_ratio": 10.12
   },
   "YWz-ECFFQVA": {
    "id": "YWz-ECFFQVA",
    "url": "https://www.youtube.com/shorts/YWz-ECFFQVA",
-   "error": "unavailable"
+   "error": "unavailable",
+   "outlier_ratio": null
   },
   "MoM_dQ381Q4": {
    "id": "MoM_dQ381Q4",
@@ -1030,7 +1065,8 @@
    "hook_3s": "Strasbourg, July 15, 18.",
    "first_5s": "Strasbourg, July 15, 18. [music] A woman known as Frau",
    "word_count": 156,
-   "words_per_sec": 2.63
+   "words_per_sec": 2.63,
+   "outlier_ratio": 0.95
   },
   "OD6SPrvfmJI": {
    "id": "OD6SPrvfmJI",
@@ -1052,7 +1088,8 @@
    "hook_3s": "",
    "first_5s": "",
    "word_count": 0,
-   "words_per_sec": null
+   "words_per_sec": null,
+   "outlier_ratio": 8.69
   },
   "Y734S75szms": {
    "id": "Y734S75szms",
@@ -1110,7 +1147,8 @@
    "hook_3s": "Did you know that in 1518 an entire town",
    "first_5s": "Did you know that in 1518 an entire town in Strasbourg, France was struck",
    "word_count": 102,
-   "words_per_sec": 2.44
+   "words_per_sec": 2.44,
+   "outlier_ratio": 1.41
   },
   "RnDW2yD9gEs": {
    "id": "RnDW2yD9gEs",
@@ -1132,7 +1170,8 @@
    "hook_3s": "hey history Buffs welcome to 1919",
    "first_5s": "hey history Buffs welcome to 1919 Boston a vibrant city of",
    "word_count": 138,
-   "words_per_sec": 2.46
+   "words_per_sec": 2.46,
+   "outlier_ratio": 1.16
   },
   "HsqwmdTer_c": {
    "id": "HsqwmdTer_c",
@@ -1154,7 +1193,8 @@
    "hook_3s": "",
    "first_5s": "",
    "word_count": 0,
-   "words_per_sec": null
+   "words_per_sec": null,
+   "outlier_ratio": 16.85
   },
   "HJ8YSh46Oy4": {
    "id": "HJ8YSh46Oy4",
@@ -1187,7 +1227,8 @@
    "hook_3s": "In 1919, Boston was hit by a disaster",
    "first_5s": "In 1919, Boston was hit by a disaster so strange it sounds like",
    "word_count": 86,
-   "words_per_sec": 2.3
+   "words_per_sec": 2.3,
+   "outlier_ratio": 1.17
   },
   "reK3N7PDIj8": {
    "id": "reK3N7PDIj8",
@@ -1220,7 +1261,8 @@
    "hook_3s": "Did you know that in 1919, a wave of molasses",
    "first_5s": "Did you know that in 1919, a wave of molasses destroyed a Boston neighborhood?",
    "word_count": 156,
-   "words_per_sec": 2.41
+   "words_per_sec": 2.41,
+   "outlier_ratio": 0.79
   },
   "_fk2uQeOZS4": {
    "id": "_fk2uQeOZS4",
@@ -1249,7 +1291,8 @@
    "hook_3s": "In 1919, a deadly flood of molasses swept through Boston,",
    "first_5s": "In 1919, a deadly flood of molasses swept through Boston, destroying the streets.",
    "word_count": 68,
-   "words_per_sec": 2.46
+   "words_per_sec": 2.46,
+   "outlier_ratio": 1.5
   },
   "WIyDW3KqD1U": {
    "id": "WIyDW3KqD1U",
@@ -1278,7 +1321,8 @@
    "hook_3s": "In 1919, when this 2.3 million molasses",
    "first_5s": "In 1919, when this 2.3 million molasses gallon tank burst, a 25-ft",
    "word_count": 60,
-   "words_per_sec": 2.64
+   "words_per_sec": 2.64,
+   "outlier_ratio": 1.61
   },
   "QaAUtSlOSj8": {
    "id": "QaAUtSlOSj8",
@@ -1306,7 +1350,8 @@
    "hook_3s": "They didn't [music] smell danger. They smelled sweetness.",
    "first_5s": "They didn't [music] smell danger. They smelled sweetness. Boston,",
    "word_count": 90,
-   "words_per_sec": 2.17
+   "words_per_sec": 2.17,
+   "outlier_ratio": 3.15
   },
   "tzTRMwUYF-s": {
    "id": "tzTRMwUYF-s",
@@ -1328,7 +1373,8 @@
    "hook_3s": "Imagine a wave of molasses rushing through city streets,",
    "first_5s": "Imagine a wave of molasses rushing through city streets, crushing buildings and sweeping people",
    "word_count": 188,
-   "words_per_sec": 2.45
+   "words_per_sec": 2.45,
+   "outlier_ratio": 1.42
   },
   "Lm-RFebwcIQ": {
    "id": "Lm-RFebwcIQ",
@@ -1350,7 +1396,8 @@
    "hook_3s": "Imagine a tidal wave of sticky molasses rushing through",
    "first_5s": "Imagine a tidal wave of sticky molasses rushing through city streets. On January",
    "word_count": 76,
-   "words_per_sec": 2.35
+   "words_per_sec": 2.35,
+   "outlier_ratio": 1.04
   },
   "o4mlPi1pQU4": {
    "id": "o4mlPi1pQU4",
@@ -1372,7 +1419,8 @@
    "hook_3s": "Imagine a sunny winter afternoon in Boston, 1910.",
    "first_5s": "Imagine a sunny winter afternoon in Boston, 1910. Suddenly,",
    "word_count": 175,
-   "words_per_sec": 2.26
+   "words_per_sec": 2.26,
+   "outlier_ratio": 0.17
   },
   "RaklWFblRIQ": {
    "id": "RaklWFblRIQ",
@@ -1416,7 +1464,8 @@
    "hook_3s": "Born in 1922, Hiroo Onoda was a Japanese",
    "first_5s": "Born in 1922, Hiroo Onoda was a Japanese intelligence officer deployed to Lubang Island",
    "word_count": 149,
-   "words_per_sec": 2.62
+   "words_per_sec": 2.62,
+   "outlier_ratio": 10.03
   },
   "hyaEt8EUlb8": {
    "id": "hyaEt8EUlb8",
@@ -1444,7 +1493,8 @@
    "hook_3s": "In 1945, a Japanese soldier emerged from a Philippine",
    "first_5s": "In 1945, a Japanese soldier emerged from a Philippine jungle after the war ended.",
    "word_count": 73,
-   "words_per_sec": 2.55
+   "words_per_sec": 2.55,
+   "outlier_ratio": 1.32
   },
   "Y1y0UYVp2cg": {
    "id": "Y1y0UYVp2cg",
@@ -1496,12 +1546,14 @@
    "hook_3s": "In 1945, the war ended. Nobody",
    "first_5s": "In 1945, the war ended. Nobody told Hiroo Onoda.",
    "word_count": 106,
-   "words_per_sec": 2.15
+   "words_per_sec": 2.15,
+   "outlier_ratio": 0.75
   },
   "MBBZDtwYxRk": {
    "id": "MBBZDtwYxRk",
    "url": "https://www.youtube.com/shorts/MBBZDtwYxRk",
-   "error": "unavailable"
+   "error": "unavailable",
+   "outlier_ratio": null
   },
   "nlJl4OV3kRc": {
    "id": "nlJl4OV3kRc",
@@ -1532,7 +1584,8 @@
    "hook_3s": "Imagine fighting a war for 29",
    "first_5s": "Imagine fighting a war for 29 years after it had already [music] ended.",
    "word_count": 221,
-   "words_per_sec": 2.44
+   "words_per_sec": 2.44,
+   "outlier_ratio": 6.52
   },
   "qP-KUTW-6cg": {
    "id": "qP-KUTW-6cg",
@@ -1554,7 +1607,8 @@
    "hook_3s": "Imagine your skull was tampered with after you [music] died. For about",
    "first_5s": "Imagine your skull was tampered with after you [music] died. For about 40 years, one skull was treated",
    "word_count": 258,
-   "words_per_sec": 3.31
+   "words_per_sec": 3.31,
+   "outlier_ratio": 0.5
   },
   "AKVbP_vAquQ": {
    "id": "AKVbP_vAquQ",
@@ -1576,7 +1630,8 @@
    "hook_3s": "",
    "first_5s": "",
    "word_count": 0,
-   "words_per_sec": null
+   "words_per_sec": null,
+   "outlier_ratio": 1.07
   },
   "ZC9okhPcj_I": {
    "id": "ZC9okhPcj_I",
@@ -1625,7 +1680,8 @@
    "hook_3s": "In 1925, a paper published in Nature told",
    "first_5s": "In 1925, a paper published in Nature told the story of a curious fossil that had",
    "word_count": 301,
-   "words_per_sec": 2.56
+   "words_per_sec": 2.56,
+   "outlier_ratio": 1.38
   },
   "E66qD5TntB8": {
    "id": "E66qD5TntB8",
@@ -1647,7 +1703,8 @@
    "hook_3s": "",
    "first_5s": "",
    "word_count": 0,
-   "words_per_sec": null
+   "words_per_sec": null,
+   "outlier_ratio": 3.44
   },
   "AeCXXo7E1IU": {
    "id": "AeCXXo7E1IU",
@@ -1669,7 +1726,8 @@
    "hook_3s": "The man was selling pieces of his very own country,",
    "first_5s": "The man was selling pieces of his very own country, and it sounded like paradise. Its capital",
    "word_count": 539,
-   "words_per_sec": 3.11
+   "words_per_sec": 3.11,
+   "outlier_ratio": 1.02
   },
   "sqw4sHsGTWs": {
    "id": "sqw4sHsGTWs",
@@ -1691,7 +1749,8 @@
    "hook_3s": "He sold a country that didn't exist. More",
    "first_5s": "He sold a country that didn't exist. More than 200 sailed there",
    "word_count": 70,
-   "words_per_sec": 2.38
+   "words_per_sec": 2.38,
+   "outlier_ratio": 0.29
   },
   "AWbMIhFH-v0": {
    "id": "AWbMIhFH-v0",
@@ -1733,7 +1792,8 @@
    "hook_3s": "The real World War II corpse that inspired Netflix Operation",
    "first_5s": "The real World War II corpse that inspired Netflix Operation Mincemeat. In 1943,",
    "word_count": 161,
-   "words_per_sec": 3.09
+   "words_per_sec": 3.09,
+   "outlier_ratio": 0.87
   },
   "nIjmvDGFBd8": {
    "id": "nIjmvDGFBd8",
@@ -1772,7 +1832,8 @@
    "hook_3s": "A woman in 1720s England convinced royal doctors [music]",
    "first_5s": "A woman in 1720s England convinced royal doctors [music] she gave birth to 17",
    "word_count": 93,
-   "words_per_sec": 3.04
+   "words_per_sec": 3.04,
+   "outlier_ratio": 3.64
   },
   "wTGj7XRQAHQ": {
    "id": "wTGj7XRQAHQ",
@@ -1794,7 +1855,8 @@
    "hook_3s": "You guys buy broken",
    "first_5s": "You guys buy broken stuff? >> Yes sir, we do.",
    "word_count": 72,
-   "words_per_sec": 2.17
+   "words_per_sec": 2.17,
+   "outlier_ratio": 1.33
   },
   "7AlSoq5FDQ8": {
    "id": "7AlSoq5FDQ8",
@@ -1816,7 +1878,8 @@
    "hook_3s": "And we just want to see your ID. >> No. You have no rights to do",
    "first_5s": "And we just want to see your ID. >> No. You have no rights to do this whatsoever. And I am not",
    "word_count": 112,
-   "words_per_sec": 2.55
+   "words_per_sec": 2.55,
+   "outlier_ratio": 836.48
   },
   "uiW_BNXC_Rk": {
    "id": "uiW_BNXC_Rk",
@@ -1855,7 +1918,8 @@
    "hook_3s": "Clean the truck bed because we had [ __ ] chickens.",
    "first_5s": "Clean the truck bed because we had [ __ ] chickens. Believe it or not.",
    "word_count": 19,
-   "words_per_sec": 2.4
+   "words_per_sec": 2.4,
+   "outlier_ratio": 3.1
   },
   "CAN-YqM0ZO4": {
    "id": "CAN-YqM0ZO4",
@@ -1886,7 +1950,8 @@
    "hook_3s": "what did count Victor lustig",
    "first_5s": "what did count Victor lustig do to the Eiffel Tower",
    "word_count": 474,
-   "words_per_sec": 3.0
+   "words_per_sec": 3.0,
+   "outlier_ratio": 2.11
   },
   "VPDJyBbk1Ts": {
    "id": "VPDJyBbk1Ts",
@@ -1908,7 +1973,8 @@
    "hook_3s": "You ever hear a story so dumb it loops back around to being genius?",
    "first_5s": "You ever hear a story so dumb it loops back around to being genius? Yeah. Meet Victor Lustig,",
    "word_count": 598,
-   "words_per_sec": 3.06
+   "words_per_sec": 3.06,
+   "outlier_ratio": null
   },
   "y5h6X3tbaRE": {
    "id": "y5h6X3tbaRE",
@@ -1952,7 +2018,8 @@
    "hook_3s": "This man sold the Eiffel Tower. And",
    "first_5s": "This man sold the Eiffel Tower. And the craziest part? It wasn't",
    "word_count": 610,
-   "words_per_sec": 2.83
+   "words_per_sec": 2.83,
+   "outlier_ratio": null
   },
   "0l1ujbTUdgI": {
    "id": "0l1ujbTUdgI",
@@ -1989,7 +2056,8 @@
    "hook_3s": "In 1925, a man sold the Eiffel Tower.",
    "first_5s": "In 1925, a man sold the Eiffel Tower. 7,000 tons of iron",
    "word_count": 380,
-   "words_per_sec": 2.63
+   "words_per_sec": 2.63,
+   "outlier_ratio": 0.05
   },
   "_MYPCUZ-NM4": {
    "id": "_MYPCUZ-NM4",
@@ -2011,7 +2079,8 @@
    "hook_3s": "Paris, 1925. A man",
    "first_5s": "Paris, 1925. A man sold the Eiffel Tower.",
    "word_count": 108,
-   "words_per_sec": 2.19
+   "words_per_sec": 2.19,
+   "outlier_ratio": 1.79
   },
   "HV2JVPFQRVk": {
    "id": "HV2JVPFQRVk",
@@ -2044,7 +2113,8 @@
    "hook_3s": "In 1925, a con artist named",
    "first_5s": "In 1925, a con artist named Victor Lustig arrived in Paris",
    "word_count": 269,
-   "words_per_sec": 2.26
+   "words_per_sec": 2.26,
+   "outlier_ratio": 0.02
   },
   "Ah2Vun_PsRg": {
    "id": "Ah2Vun_PsRg",
@@ -2086,7 +2156,8 @@
    "hook_3s": "It's the year 897 AD.",
    "first_5s": "It's the year 897 AD. Europe is a mess. Vikings",
    "word_count": 661,
-   "words_per_sec": 3.0
+   "words_per_sec": 3.0,
+   "outlier_ratio": null
   },
   "o0TI-j2qwuk": {
    "id": "o0TI-j2qwuk",
@@ -2111,7 +2182,8 @@
    "hook_3s": "",
    "first_5s": "",
    "word_count": 0,
-   "words_per_sec": null
+   "words_per_sec": null,
+   "outlier_ratio": null
   },
   "suyXDIQhKhs": {
    "id": "suyXDIQhKhs",
@@ -2133,7 +2205,8 @@
    "hook_3s": "Rome, January 897.",
    "first_5s": "Rome, January 897. A trial is about to begin.",
    "word_count": 137,
-   "words_per_sec": 2.45
+   "words_per_sec": 2.45,
+   "outlier_ratio": null
   },
   "04LU2DHq5d4": {
    "id": "04LU2DHq5d4",
@@ -2180,7 +2253,8 @@
    "hook_3s": "",
    "first_5s": "",
    "word_count": 77,
-   "words_per_sec": 1.79
+   "words_per_sec": 1.79,
+   "outlier_ratio": 0.81
   },
   "UDop39Q_Dao": {
    "id": "UDop39Q_Dao",
@@ -2213,7 +2287,8 @@
    "hook_3s": "Rome, January, the year 897.",
    "first_5s": "Rome, January, the year 897. A synod is called",
    "word_count": 369,
-   "words_per_sec": 2.61
+   "words_per_sec": 2.61,
+   "outlier_ratio": null
   },
   "9vZpsrlxygM": {
    "id": "9vZpsrlxygM",
@@ -2262,7 +2337,8 @@
    "hook_3s": "",
    "first_5s": "",
    "word_count": 0,
-   "words_per_sec": null
+   "words_per_sec": null,
+   "outlier_ratio": 0.08
   },
   "cL5V4-auxNI": {
    "id": "cL5V4-auxNI",
@@ -2284,7 +2360,8 @@
    "hook_3s": "doctors confirmed that she's giving birth to rabbits this",
    "first_5s": "doctors confirmed that she's giving birth to rabbits this real medical Story begins in 18th",
    "word_count": 371,
-   "words_per_sec": 2.78
+   "words_per_sec": 2.78,
+   "outlier_ratio": 0.03
   },
   "gAV99zuINNY": {
    "id": "gAV99zuINNY",
@@ -2325,7 +2402,8 @@
    "hook_3s": "What would you lose by swearing a woman gave birth to about 15 rabbits?",
    "first_5s": "What would you lose by swearing a woman gave birth to about 15 rabbits? In 1726,",
    "word_count": 172,
-   "words_per_sec": 3.0
+   "words_per_sec": 3.0,
+   "outlier_ratio": 0.08
   },
   "u1uItoT55ss": {
    "id": "u1uItoT55ss",
@@ -2360,7 +2438,8 @@
    "hook_3s": "In 1726, a young English woman started",
    "first_5s": "In 1726, a young English woman started giving birth to what looked like",
    "word_count": 226,
-   "words_per_sec": 2.53
+   "words_per_sec": 2.53,
+   "outlier_ratio": 0.0
   },
   "uuBjH-pZYVQ": {
    "id": "uuBjH-pZYVQ",
@@ -2397,7 +2476,8 @@
    "hook_3s": "In 1726, a young woman from",
    "first_5s": "In 1726, a young woman from England shocked the medical world.",
    "word_count": 241,
-   "words_per_sec": 2.24
+   "words_per_sec": 2.24,
+   "outlier_ratio": null
   },
   "GBUOnKE28IQ": {
    "id": "GBUOnKE28IQ",
@@ -2431,7 +2511,8 @@
    "hook_3s": "She claimed to give birth to rabbits. In 1,726,",
    "first_5s": "She claimed to give birth to rabbits. In 1,726, [music]",
    "word_count": 389,
-   "words_per_sec": 2.64
+   "words_per_sec": 2.64,
+   "outlier_ratio": 0.04
   },
   "yCb2v8yIw3M": {
    "id": "yCb2v8yIw3M",
@@ -2480,7 +2561,8 @@
    "hook_3s": "in 1726 a woman named Mary torf",
    "first_5s": "in 1726 a woman named Mary torf shook the medical community with an",
    "word_count": 146,
-   "words_per_sec": 1.96
+   "words_per_sec": 1.96,
+   "outlier_ratio": 0.33
   },
   "zwkSyrN0mvY": {
    "id": "zwkSyrN0mvY",
@@ -2517,7 +2599,8 @@
    "hook_3s": "In five weeks, 100,000 British forces",
    "first_5s": "In five weeks, 100,000 British forces will strike Sicily's southern",
    "word_count": 313,
-   "words_per_sec": 2.23
+   "words_per_sec": 2.23,
+   "outlier_ratio": 144.0
   },
   "8lQtdhtw5eI": {
    "id": "8lQtdhtw5eI",
@@ -2539,7 +2622,8 @@
    "hook_3s": "it's not often that you see a gravestone with a correction",
    "first_5s": "it's not often that you see a gravestone with a correction on it but then it's not often",
    "word_count": 578,
-   "words_per_sec": 3.15
+   "words_per_sec": 3.15,
+   "outlier_ratio": null
   },
   "P_sfxUBSO14": {
    "id": "P_sfxUBSO14",
@@ -2561,7 +2645,8 @@
    "hook_3s": "",
    "first_5s": "",
    "word_count": 0,
-   "words_per_sec": null
+   "words_per_sec": null,
+   "outlier_ratio": null
   },
   "ZbqUliTbNp4": {
    "id": "ZbqUliTbNp4",
@@ -2599,7 +2684,8 @@
    "hook_3s": "at the height of the second world war the Allied",
    "first_5s": "at the height of the second world war the Allied Forces were planning a secret mission to invade",
    "word_count": 320,
-   "words_per_sec": 2.98
+   "words_per_sec": 2.98,
+   "outlier_ratio": 18.55
   },
   "4sd3fScD3Gc": {
    "id": "4sd3fScD3Gc",
@@ -2621,7 +2707,8 @@
    "hook_3s": "So you dreamt of being a pilot but you",
    "first_5s": "So you dreamt of being a pilot but you never got to fly. So you",
    "word_count": 443,
-   "words_per_sec": 2.57
+   "words_per_sec": 2.57,
+   "outlier_ratio": 16.22
   },
   "YQ7ZXOXHZ20": {
    "id": "YQ7ZXOXHZ20",
@@ -2661,7 +2748,8 @@
    "hook_3s": "",
    "first_5s": "",
    "word_count": 0,
-   "words_per_sec": null
+   "words_per_sec": null,
+   "outlier_ratio": 529.81
   },
   "kXqsNfe0xG8": {
    "id": "kXqsNfe0xG8",
@@ -2709,7 +2797,8 @@
    "hook_3s": "good you're back i'm neon and today's episode is about",
    "first_5s": "good you're back i'm neon and today's episode is about the luckiest most fascinating and",
    "word_count": 746,
-   "words_per_sec": 3.43
+   "words_per_sec": 3.43,
+   "outlier_ratio": 3.1
   },
   "AR2CYe0qPfg": {
    "id": "AR2CYe0qPfg",
@@ -2755,7 +2844,8 @@
    "hook_3s": "",
    "first_5s": "",
    "word_count": 323,
-   "words_per_sec": 2.38
+   "words_per_sec": 2.38,
+   "outlier_ratio": 0.13
   },
   "LXhjwN0QpH4": {
    "id": "LXhjwN0QpH4",
@@ -2786,7 +2876,8 @@
    "hook_3s": "In 1822, thousands of British finest mines",
    "first_5s": "In 1822, thousands of British finest mines sold everything, homes, savings,",
    "word_count": 423,
-   "words_per_sec": 2.77
+   "words_per_sec": 2.77,
+   "outlier_ratio": null
   },
   "mzu_Qs22BMw": {
    "id": "mzu_Qs22BMw",
@@ -2828,7 +2919,8 @@
    "hook_3s": "once upon a time there was a Scottish gentleman",
    "first_5s": "once upon a time there was a Scottish gentleman named Gregor McGregor",
    "word_count": 424,
-   "words_per_sec": 2.29
+   "words_per_sec": 2.29,
+   "outlier_ratio": 0.02
   },
   "qDSIHHSlZq4": {
    "id": "qDSIHHSlZq4",
@@ -2850,7 +2942,8 @@
    "hook_3s": "",
    "first_5s": "",
    "word_count": 333,
-   "words_per_sec": 2.39
+   "words_per_sec": 2.39,
+   "outlier_ratio": 1.45
   },
   "WRjry1Z78j8": {
    "id": "WRjry1Z78j8",
@@ -2872,7 +2965,8 @@
    "hook_3s": "imagine investing your life savings",
    "first_5s": "imagine investing your life savings in a country that doesn't",
    "word_count": 138,
-   "words_per_sec": 2.42
+   "words_per_sec": 2.42,
+   "outlier_ratio": null
   },
   "nf-2imiH4k4": {
    "id": "nf-2imiH4k4",
@@ -2894,7 +2988,8 @@
    "hook_3s": "Welcome to the stupidity dividend. How the foolish,",
    "first_5s": "Welcome to the stupidity dividend. How the foolish, reckless, and shameless",
    "word_count": 455,
-   "words_per_sec": 2.17
+   "words_per_sec": 2.17,
+   "outlier_ratio": null
   },
   "UAgzDe_eAOA": {
    "id": "UAgzDe_eAOA",
@@ -2938,7 +3033,8 @@
    "hook_3s": "Imagine the United States in the early 1870s.",
    "first_5s": "Imagine the United States in the early 1870s. The Civil War",
    "word_count": 461,
-   "words_per_sec": 2.33
+   "words_per_sec": 2.33,
+   "outlier_ratio": null
   },
   "AjeoepPdtgo": {
    "id": "AjeoepPdtgo",
@@ -2960,7 +3056,8 @@
    "hook_3s": "Back in 1872,",
    "first_5s": "Back in 1872, two",
    "word_count": 135,
-   "words_per_sec": 1.75
+   "words_per_sec": 1.75,
+   "outlier_ratio": null
   },
   "Wdb8s3Xb8sU": {
    "id": "Wdb8s3Xb8sU",
@@ -2982,7 +3079,8 @@
    "hook_3s": "Imagine digging into the ground and finding a diamond,",
    "first_5s": "Imagine digging into the ground and finding a diamond, then another, then a ruby,",
    "word_count": 485,
-   "words_per_sec": 2.63
+   "words_per_sec": 2.63,
+   "outlier_ratio": 0.26
   },
   "2xylcGbrhic": {
    "id": "2xylcGbrhic",
@@ -3004,7 +3102,8 @@
    "hook_3s": ">> Great diamond hoax, 1872.",
    "first_5s": ">> Great diamond hoax, 1872. Imagine discovering",
    "word_count": 421,
-   "words_per_sec": 2.23
+   "words_per_sec": 2.23,
+   "outlier_ratio": 0.83
   },
   "aZjs44weIO0": {
    "id": "aZjs44weIO0",
@@ -3026,7 +3125,8 @@
    "hook_3s": "the Europe of the",
    "first_5s": "the Europe of the 18th century saw",
    "word_count": 387,
-   "words_per_sec": 1.85
+   "words_per_sec": 1.85,
+   "outlier_ratio": 10.59
   },
   "bw2vmMr35Ac": {
    "id": "bw2vmMr35Ac",
@@ -3048,7 +3148,8 @@
    "hook_3s": "",
    "first_5s": "",
    "word_count": 0,
-   "words_per_sec": null
+   "words_per_sec": null,
+   "outlier_ratio": 0.01
   },
   "D6p4iOGxMUA": {
    "id": "D6p4iOGxMUA",
@@ -3070,7 +3171,8 @@
    "hook_3s": "In 1703, a man named George Salmanza",
    "first_5s": "In 1703, a man named George Salmanza arrived in London. He was",
    "word_count": 341,
-   "words_per_sec": 2.54
+   "words_per_sec": 2.54,
+   "outlier_ratio": null
   },
   "tvJxjqNv60I": {
    "id": "tvJxjqNv60I",
@@ -3092,7 +3194,8 @@
    "hook_3s": "",
    "first_5s": "",
    "word_count": 0,
-   "words_per_sec": null
+   "words_per_sec": null,
+   "outlier_ratio": 0.14
   },
   "oONpQC5avOg": {
    "id": "oONpQC5avOg",
@@ -3155,7 +3258,8 @@
    "hook_3s": "",
    "first_5s": "Where in the world is",
    "word_count": 210,
-   "words_per_sec": 1.63
+   "words_per_sec": 1.63,
+   "outlier_ratio": 0.09
   },
   "j3GrPUxOdBU": {
    "id": "j3GrPUxOdBU",
@@ -3200,7 +3304,8 @@
    "hook_3s": "",
    "first_5s": "",
    "word_count": 295,
-   "words_per_sec": 2.54
+   "words_per_sec": 2.54,
+   "outlier_ratio": 0.84
   },
   "HYQY3ys6ZgE": {
    "id": "HYQY3ys6ZgE",
@@ -3233,7 +3338,8 @@
    "hook_3s": "1869 the discovery of a giant",
    "first_5s": "1869 the discovery of a giant petrified man in Cardiff",
    "word_count": 459,
-   "words_per_sec": 2.37
+   "words_per_sec": 2.37,
+   "outlier_ratio": 0.32
   },
   "5hQ3_HJNgkM": {
    "id": "5hQ3_HJNgkM",
@@ -3268,7 +3374,8 @@
    "hook_3s": "In 1869, two men digging a well",
    "first_5s": "In 1869, two men digging a well in New York found a 10- ft or",
    "word_count": 189,
-   "words_per_sec": 2.67
+   "words_per_sec": 2.67,
+   "outlier_ratio": null
   },
   "1fctfHw2eyI": {
    "id": "1fctfHw2eyI",
@@ -3305,7 +3412,8 @@
    "hook_3s": "In 1869,",
    "first_5s": "In 1869, two men digging a well in New York hit",
    "word_count": 681,
-   "words_per_sec": 3.12
+   "words_per_sec": 3.12,
+   "outlier_ratio": 0.0
   },
   "TDcdC21gvWc": {
    "id": "TDcdC21gvWc",
@@ -3359,13 +3467,2202 @@
    "hook_3s": "The year is 1896.",
    "first_5s": "The year is 1896. Sultan Hamad, King of Zanzibar",
    "word_count": 536,
-   "words_per_sec": 2.68
+   "words_per_sec": 2.68,
+   "outlier_ratio": 9.81
   },
   "D4neywfpIFI": {
    "id": "D4neywfpIFI",
    "url": "https://www.youtube.com/shorts/D4neywfpIFI",
-   "error": "unavailable"
+   "error": "unavailable",
+   "outlier_ratio": null
+  },
+  "llxbV_OnoOE": {
+   "id": "llxbV_OnoOE",
+   "url": "https://www.youtube.com/shorts/llxbV_OnoOE",
+   "title": "The Anglo-Zanzibar War with Flags: Every Minute",
+   "channel": "Geography and Space",
+   "channel_url": "https://www.youtube.com/channel/UCmjvfHgVn6h6j9gWqiVEAVg",
+   "subscribers": 370000,
+   "published": "20260401",
+   "views": 63729,
+   "likes": 1188,
+   "comments": 187,
+   "duration": 69,
+   "description": "This video shows the progression of the Anglo-Zanzibar war, every minute, from the British ultimatum demanding that Khalid bin Barghash step down as sultan expiring at 20:55 local time (8:55 PM) on 27 August 1896, to Khalid bin Barghash evacuating and Zanzibar becoming a part of the British Empire at 21:40 local time (9:40 PM).\n\nMusic: Dangerous by Kevin MacLeod\n\n\"Dangerous\" Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttp://creativecommons.org/licenses/by/4.0/\n\nSources:\nhttps://www.youtube.com/watch?v=7YPsQ0eJ-is\nWikipedia",
+   "tags": [],
+   "access": "page",
+   "fetched": "2026-11-19",
+   "transcript": "",
+   "hook_3s": "",
+   "first_5s": "",
+   "word_count": 0,
+   "words_per_sec": null,
+   "outlier_ratio": 0.18
+  },
+  "cB_W7si-bhE": {
+   "id": "cB_W7si-bhE",
+   "url": "https://www.youtube.com/shorts/cB_W7si-bhE",
+   "title": "The War That Lasted Only 38 Minutes | Anglo-Zanzibar War",
+   "channel": "The Story Hub",
+   "channel_url": "https://www.youtube.com/channel/UC_W6IfzdWulQI2R-PerJp-Q",
+   "subscribers": 159,
+   "published": "20250614",
+   "views": 121,
+   "likes": null,
+   "comments": null,
+   "duration": 167,
+   "description": "In 1896, the shortest war in human history broke out — and ended — in just 38 minutes. The Anglo-Zanzibar War was a stunning clash of pride, power, and politics. What caused such a rapid surrender? How did an empire deliver its message in less than an hour?\n\nDiscover this fascinating historical event and its powerful moral: sometimes, wisdom lies not in resisting — but in knowing when to yield.\n\n🔔 If you love real history stories like this, don’t forget to like, comment, and subscribe for more mind-blowing tales from the past!\n#historyfacts  #shortestwar  #anglozanzibarwar  #realstory  #worldh",
+   "tags": [
+    "38 minute war",
+    "anglo-zanzibar war",
+    "how the anglo-zanzibar war of 1896 lasted only 38 minutes",
+    "anglo-zanzibar war 1896",
+    "shortest war in history anglo zanzibar war",
+    "shortest war in history anglo zanzibar war 1896",
+    "anglo zanzibar war",
+    "anglozanzibarwar",
+    "hamad bin thuwaini",
+    "Anglo-Zanzibar War 1896",
+    "war trivia",
+    "historical diplomacy",
+    "zanzibar facts",
+    "british empire",
+    "gunboat diplomacy",
+    "military history",
+    "zanzibar",
+    "sultanate",
+    "tanzania",
+    "African History",
+    "Shortest war ever in history"
+   ],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "In the year 1896, something unbelievable happened. A war was fought and it lasted only 38 Yes, you heard that right. Less than the time it takes to watch a YouTube video or finish a cup of tea. This is the true story of the Anglo Zanzibar War, the shortest war in recorded human history. Let's go back to August 25th, 1896. Zanzibar, a small island off the East African coast, was under British influence. The British had installed Sultan Hammed bin Tuini, who ruled peacefully and cooperatively. But then he suddenly died. Many believe he was poisoned. In his place, Sultan Khaled bin Barosh seized power. However, the British didn't approve of him. He wasn't their choice, and they feared he might challenge their control. On August 26th, the British sent a warning. Step down by 9:00 a.m. tomorrow or face consequences. Sultan Khaled refused. He gathered nearly 3,000 men, fortified the palace, and even positioned a royal yacht with a few cannons. He believed he could but what he didn't realize was just how outmatched he was. The next morning, on August 27th, at exactly 9:02 a.m., British warships anchored near the palace opened fire. Massive shells struck the building, collapsing walls and destroying defenses. Sultan Khaled's men tried to return fire, but their outdated weapons were no match. The royal yacht was sunk within minutes. By 9:40 a.m., the Sultan's forces had surrendered. The palace was in ruins. 500 of his men were killed or injured, while the British suffered only one minor injury. Sultan Khaled had fled through a back door and taken refuge in the German The war was over in just 38 minutes. It was a war, yes, but more than that, it was a clear message from an empire at its peak. Don't challenge us. The war may have been short, but its meaning echoed much longer. Moral of the story, sometimes stubborn pride leads to quick destruction. Wisdom often lies not in resisting, but in knowing when to yield.",
+   "hook_3s": "In the year 1896, something",
+   "first_5s": "In the year 1896, something unbelievable happened.",
+   "word_count": 337,
+   "words_per_sec": 2.02,
+   "outlier_ratio": 0.2
+  },
+  "8h7VxzQlFP0": {
+   "id": "8h7VxzQlFP0",
+   "url": "https://www.youtube.com/shorts/8h7VxzQlFP0",
+   "title": "(Outdated) The Anglo-Zanzibar War",
+   "channel": "EmperorTigerstar",
+   "channel_url": "https://www.youtube.com/channel/UCUXqYwTCR6R3Wr-FkLTD4AQ",
+   "subscribers": 573000,
+   "published": "20120907",
+   "views": 35036,
+   "likes": 906,
+   "comments": 68,
+   "duration": 89,
+   "description": "See how the shortest war in history went down. It lasted 38 minutes.\nMade with MS Paint and Windows Movie Maker.\n\nSource:\nHernon, Ian. Britain’s forgotten wars: Colonial campaigns of the 19th century. Stroud, Gloucestershire England: History Press, 2008.",
+   "tags": [
+    "war",
+    "history",
+    "shortest war in history",
+    "short",
+    "fighting",
+    "Zanzibar",
+    "British Empire",
+    "England",
+    "Britain",
+    "Khalid",
+    "Muhammed",
+    "United Kingdom",
+    "1896",
+    "38 minutes"
+   ],
+   "access": "page",
+   "fetched": "2026-11-19",
+   "transcript": "",
+   "hook_3s": "",
+   "first_5s": "",
+   "word_count": 0,
+   "words_per_sec": null,
+   "outlier_ratio": 0.56
+  },
+  "xvVbWu0dOHo": {
+   "id": "xvVbWu0dOHo",
+   "url": "https://www.youtube.com/shorts/xvVbWu0dOHo",
+   "title": "Anglo-Zanzibar War Using Google Earth (Inaccurate)",
+   "channel": "xComrads",
+   "channel_url": "https://www.youtube.com/channel/UCuHjcqS06bUCZ4eQ5fCe6Dw",
+   "subscribers": 2330,
+   "published": "20251002",
+   "views": 1516,
+   "likes": 39,
+   "comments": 13,
+   "duration": 27,
+   "description": "Hello everyone!\nThis is another mapping video I made, hope you all enjoy it!\n\nATTENTION! This video SHOULD NOT BE USED AS A SOURCE FOR KNOWLEDGE! It's purely entertainment purposes and only historically accurate to some point, BE AWARE!\n\n(This video is not sponsored by MapChart.)\n(Not endorsed by Google, this video is completely made by me. This video is not sponsored by Google.)",
+   "tags": [
+    "war",
+    "mapping",
+    "europe",
+    "european",
+    "map",
+    "maps",
+    "operation",
+    "wars",
+    "politics",
+    "fypシ",
+    "viral",
+    "capcut",
+    "countries"
+   ],
+   "access": "page",
+   "fetched": "2026-11-19",
+   "transcript": "",
+   "hook_3s": "",
+   "first_5s": "",
+   "word_count": 0,
+   "words_per_sec": null,
+   "outlier_ratio": 0.51
+  },
+  "Vu1tNJWIQU4": {
+   "id": "Vu1tNJWIQU4",
+   "url": "https://www.youtube.com/shorts/Vu1tNJWIQU4",
+   "title": "Inside the Pig War of 1859",
+   "channel": "Smithsonian Channel",
+   "channel_url": "https://www.youtube.com/channel/UCWqPRUsJlZaDp-PVbqEch9g",
+   "subscribers": 4300000,
+   "published": "20150901",
+   "views": 16927,
+   "likes": 140,
+   "comments": 15,
+   "duration": 110,
+   "description": "In 1859, when an American farmer shot a pig on an island that both Britain and America claimed, a twelve-year-long standoff known as the Pig War began.\n\nFrom: AERIAL AMERICA: Washington\nhttp://bit.ly/1KhP7ln",
+   "tags": [
+    "Smithsonian",
+    "channel",
+    "stream TV",
+    "free TV streaming",
+    "TV online",
+    "video",
+    "documentary",
+    "free videos",
+    "watch",
+    "watch online",
+    "episodes",
+    "facts",
+    "aerial",
+    "England",
+    "air",
+    "America",
+    "discovery",
+    "Travel",
+    "San Juan Islands",
+    "Washington",
+    "war",
+    "pig war",
+    "glaciers",
+    "islands",
+    "Britain",
+    "land",
+    "standoff",
+    "international conflict",
+    "Great Britain",
+    "Canada",
+    "American Revolution",
+    "Manifest Destiny",
+    "American farmer",
+    "territory",
+    "griffin bay"
+   ],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "these islands are known as the San Juans 20,000 years ago this entire area was covered a mile deep in glacial ice in some places the ice sheet is estimated to have been more than 3,400 ft high as the glaciers Advanced and retreated over many ice ages they carved out this archipelago how many islands are there in the San Juans no one seems to agree at least 200 but the number can reach as high as 800 if one includes every Rock and reef poking above the waterline the question might seem academic but it actually brought the US and Britain to within a hair's breadth of war in 1859 it was known as the pig War when an American Farmer shot a pig on an island that both Nations claimed it turned into an international incident both US troops and the British Navy arrived on the scene and a standoff ensued for 12 years an international commission headed by German Kaiser Wilhelm I first ultimately awarded jurisdiction over all the islands to the States British forces left the sanan islands in November Of 1872 nearly a 100 years after the American Revolution Great Britain was was still making a grab for land in the US but the pig War marked the last time the two nations would Spar over American",
+   "hook_3s": "these islands are known",
+   "first_5s": "these islands are known as the San Juans 20,000",
+   "word_count": 223,
+   "words_per_sec": 2.29,
+   "outlier_ratio": 1.54
+  },
+  "pcxz_1k8zZ0": {
+   "id": "pcxz_1k8zZ0",
+   "url": "https://www.youtube.com/shorts/pcxz_1k8zZ0",
+   "title": "163 years since the start of 'The Pig War' in San Juan Islands",
+   "channel": "FOX 13 Seattle",
+   "channel_url": "https://www.youtube.com/channel/UC5bKZHg4PzURMOWcvanl6nA",
+   "subscribers": 405000,
+   "published": "20220808",
+   "views": 4121,
+   "likes": 61,
+   "comments": 11,
+   "duration": 212,
+   "description": "Last weekend, San Juan Island National Historic Park held its annual living history event for 'The Pig War.' It started 163 years ago but not everyone has heard of it. FOX 13 Photojournalist Frank Koumaros takes us there.\n\nSubscribe to FOX 13 Seattle: https://www.youtube.com/c/fox13seattle?sub_confirmation=1\n\nWatch FOX 13 Seattle Live: https://www.q13fox.com/live\n\nFOX 13 Seattle is Western Washington's source for breaking news, weather, traffic, politics and sports. Home of Washington's Most Wanted and the official TV partner of the Seattle Seahawks, Sounders FC and Storm Basketball.\n\nDownload",
+   "tags": [
+    "News",
+    "San Juan County",
+    "pig war",
+    "san juan islands",
+    "vancouver island",
+    "washington state"
+   ],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "this weekend san juan island national historic park held its annual living history event for the pig war it started back 163 years ago but not everybody's heard of it fox 13 photojournalist frank lamarres takes us there we had an american squatter a bitty yank highly parochial decided to plant his farm establishment on a well-established hudson's bay company sheep farm they were very tolerant of him being there but he would not fence his garden properly and there was a prime breeding boar that got into his garden and then the american shot him of course then he wanted to pay for the pig our manager here on the island told him that that was a prized berkshire bore for breeding and that it was going to cost a hundred pounds and that's what started all of it because it was disputed territory everybody started saying it's my land no it's my land and we've got seven again they act like they're the only ones on the island the british were going to arrest them and then pickett came from you know bellingham and they brought thousands of men from ships here the british it went around the world people around the world knew about what was happening here at that time this would have created another war between the u.s and great britain we both agree it's a problem over which strait the border between the colony of canada and that of the uprootly colonists the our former colonists the americans should run southerly uh from the pacific ocean at the 49th parallel through this widest and mostly used straight of water between it vancouver island and the mainland the harold strait is the deepest widest best shipping lane and that said it would go up the best in the story they did say the the main channel through the islands which clearly is south of the island so this is british property drawing lines in the sand as it were well why can't they and they did for 12 years sooner or kaiser wilhelm the first decided to and he ruled in favor of the haro strait being the navigable straight cooler heads finally prevailed and we did not go to war with britain for the third time in a hundred years and they stood down and that's the story the war that wasn't sensible heads and they talked it out and they said well this is ridiculous and the only one that died was the pig and why can't we do that today that makes it the greatest you know because it was handed peaceably people talked the groups of reenactors who come here have a lot of fun this is one of the few national parks that actually it flies the union jack they have more stuff over there they're british reenactors and we got the blacksmith there and we love we love the national park system we're the guardians of the stories of those of us who've gone before and if we don't share them they get lost that was frank kamarus reporting this year marks 150 years since the united states and great britain settled ownership of the san juan islands",
+   "hook_3s": "this weekend san juan island national historic",
+   "first_5s": "this weekend san juan island national historic park held its annual living history",
+   "word_count": 539,
+   "words_per_sec": 2.56,
+   "outlier_ratio": 2.94
+  },
+  "QDGdQ82Gplo": {
+   "id": "QDGdQ82Gplo",
+   "url": "https://www.youtube.com/shorts/QDGdQ82Gplo",
+   "title": "The Pig War - The Dumbest Conflict in History - Pig War Documentary. [1859]",
+   "channel": "Imperial Scribe",
+   "channel_url": "https://www.youtube.com/channel/UCiy-XPoWThicpM30RGF_wbw",
+   "subscribers": 7940,
+   "published": "20200123",
+   "views": 19428,
+   "likes": 370,
+   "comments": 49,
+   "duration": 174,
+   "description": "The pig war, easily the most ridiculous conflict in the history of mankind. While the conflict definitely had deeper-lying roots, the catalyst for the war was the killing of potatoe raiding pig. From there, things quickly become even more ridiculous, with both sides calling in their armies and navies.\n\nThis episode in military history was far from the only ridiculous justification for war, but it is definitely one of the weirder ways to start a conflict.\n\nResearch and Script Writing by: Kathy Benjamin\nhttps://twitter.com/KathyBenjamin\n\nSources:\n'The Pig War' - Ben Johnson\n'The Pig War: The rea",
+   "tags": [
+    "the pig war",
+    "pigwar",
+    "pig",
+    "war",
+    "pig war",
+    "history",
+    "military history",
+    "histor",
+    "history channel",
+    "silly wars in history",
+    "silly war",
+    "san juan islands",
+    "san juan",
+    "san juan history",
+    "san juan islands history",
+    "dumbest wars",
+    "dumbest wars in history",
+    "dumbest wars ever fought",
+    "fought",
+    "fighting",
+    "dumbest",
+    "weirdest",
+    "weirdest wars",
+    "weirdest wars in history",
+    "inhistory",
+    "in history",
+    "history of us",
+    "us history",
+    "us wars",
+    "minor us wars",
+    "minor wars",
+    "animation",
+    "military animation",
+    "animated history of us",
+    "usa",
+    "uk"
+   ],
+   "access": "page",
+   "fetched": "2026-11-19",
+   "transcript": "",
+   "hook_3s": "",
+   "first_5s": "",
+   "word_count": 0,
+   "words_per_sec": null,
+   "outlier_ratio": 11.43
+  },
+  "wTi86St00G4": {
+   "id": "wTi86St00G4",
+   "url": "https://www.youtube.com/shorts/wTi86St00G4",
+   "error": "unavailable",
+   "outlier_ratio": null
+  },
+  "pLVA6GV55Og": {
+   "id": "pLVA6GV55Og",
+   "url": "https://www.youtube.com/shorts/pLVA6GV55Og",
+   "title": "One Pig, Two Armies, And A Forgotten War",
+   "channel": "Mystery Atlas",
+   "channel_url": "https://www.youtube.com/channel/UCpdd40wTC6Ll5inSZUUjZ3Q",
+   "subscribers": 52,
+   "published": "20261031",
+   "views": 18,
+   "likes": 1,
+   "comments": 1,
+   "duration": 233,
+   "description": "🐷 What if one pig could almost start a war between two powerful countries?\n\nIn 1859, a dispute over a pig on San Juan Island escalated into a military standoff between the United States and Great Britain.\n\nAmerican soldiers arrived. British warships approached. And for years, both countries occupied the same disputed island.\n\nDiscover the incredible true story of the Pig War, the border dispute that caused it, and how the crisis was finally resolved in 1872.\n\n🌍 Subscribe to World Unlocked for more geography mysteries, unusual borders, and forgotten historical events!\n\n#WorldUnlocked #PigWar #P",
+   "tags": [
+    "Ancient Warfare",
+    "Animal Legend",
+    "Armored Pig",
+    "Epic Battles",
+    "Forgotten Battles",
+    "Forgotten War",
+    "Heroic Pig",
+    "Historical Conflict",
+    "Military History",
+    "Pig Story",
+    "Pig's Revenge",
+    "Two Armies",
+    "Unexplained Events",
+    "Unsung Heroes",
+    "War Narrative",
+    "War Tactics",
+    "War's Echo"
+   ],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "In 1859, one pig was shot on a tiny island and suddenly America and Britain were facing a military crisis. Back then, Britain controlled land to the north, while the United States was expanding westward toward the Pacific Ocean. The problem was a border treaty. Both countries interpreted the boundary differently, and the San Juan Islands sat between their claims. San Juan Island became the center of the dispute. American settlers and employees of Britain's Hudson's Bay Company lived Then, on June 15th, 1859, an American settler named Lyman Cutler discovered a pig eating his potatoes. Cutler killed the pig and offered compensation, but its owner reportedly demanded $100, and the disagreement quickly escalated. The argument soon became political. British officials threatened to arrest Cutler, while American settlers insisted the island belonged to America. Fearing British action, American settlers requested military protection. General William Harney's response would turn a local argument into a dangerous standoff. On July 27th, Captain George Pickett landed with about 60 American soldiers, establishing a military position on the disputed island. Britain responded by sending Royal Navy ships toward San Juan Island. Suddenly, a dispute over a pig had become an international military crisis. American soldiers held positions on the island, while British warships waited offshore. Neither country wanted to abandon its territorial claim. The British ships carried powerful naval forces. Yet their commanders knew that escalating the confrontation could have serious consequences. British Captain Geoffrey Hornby resisted escalating the confrontation. His restraint helped prevent the dispute from turning into a More American soldiers arrived on San Juan Island. The military presence kept even though the crisis began with one When news reached Washington, American leaders wanted to calm the situation. General Winfield Scott was sent west to negotiate. General Scott negotiated with British Governor James Douglas. Both sides eventually agreed to maintain a limited military presence on the island. The Americans remained in the south. British Royal Marines later established English Camp near Garrison Bay on the northern side. For years, British and American forces occupied the same island. Meanwhile, diplomats continued searching for a permanent solution. What started in 1859 continued for more than a decade. The two countries still had to decide who legally owned the islands. In 1871, Britain and the United States agreed to international arbitration. An outside authority would finally settle the boundary dispute. The dispute went to German Emperor Wilhelm I, who appointed an arbitration commission to examine the competing claims. On October 21st, 1872, the decision favored the United States. The international boundary would follow Haro Strait. British Royal Marines withdrew from English Camp later that year. The San Juan Islands were now recognized as American territory. Despite the military standoff, no humans were killed. The only life lost in the Pig War was the original pig. One pig, two powerful countries, and 13 years of Do you think this dispute could have been solved much sooner?",
+   "hook_3s": "In 1859, one pig was shot",
+   "first_5s": "In 1859, one pig was shot on a tiny island and",
+   "word_count": 489,
+   "words_per_sec": 2.14,
+   "outlier_ratio": 0.01
+  },
+  "B95lyvB1JVQ": {
+   "id": "B95lyvB1JVQ",
+   "url": "https://www.youtube.com/shorts/B95lyvB1JVQ",
+   "title": "The War That Started Over a Pig (The Pig War, 1859)",
+   "channel": "Strange Old World",
+   "channel_url": "https://www.youtube.com/channel/UCc4nR5StOne4UwY1B_bqVlQ",
+   "subscribers": 17,
+   "published": "20261108",
+   "views": 23,
+   "likes": null,
+   "comments": null,
+   "duration": 120,
+   "description": "In 1859, the United States and Britain nearly went to war over a pig on San Juan Island. American farmer Lyman Cutlar shot a Hudson’s Bay Company pig rooting in his potatoes. Troops and warships arrived. Orders on both sides were not to fire first. No shots were exchanged between the two forces. The only confirmed casualty was the pig. Joint occupation followed until 1872, when arbitration awarded the islands to the United States. The site is now San Juan Island National Historical Park.\n\n#history #weirdhistory #storytime\n\nSources:\nhttps://www.nps.gov/sajh/learn/historyculture/the-pig-war.htm\n",
+   "tags": [
+    "pig war",
+    "pig war 1859",
+    "san juan island",
+    "lyman cutlar",
+    "weird history",
+    "stick figure history",
+    "animated history",
+    "history explained",
+    "border dispute",
+    "hudson bay company",
+    "charles griffin",
+    "almost wars",
+    "strange old world"
+   ],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "In 1859, the United States and Britain nearly went to war over a pig. San Juan Island sat between Vancouver Island and the mainland. Both nations claimed it. Old treaties said the border ran down the middle of the channel, but there were two channels. The islands sat between them. The Hudson's Bay Company ran a big sheep farm there. American settlers staked claims on the same land. Tempers were already short. Then came June 15th. American farmer Lyman Cutler found a company pig rooting through his potato The only confirmed casualty of the whole crisis. Cutler offered to pay for the pig. Farm manager Charles Griffin wanted far more in a fight over who owned the island. British officials threatened to arrest Cutler and remove the American settlers as trespassers. The Americans asked the US Army for protection. Brigadier General William Harney sent Captain George Pickett. Pickett landed with about 64 soldiers in late July. He refused to leave. Captain sent warships including the steam frigate Tribune. Warships joined. Cannons faced the camp. Orders on both sides said, do not fire first. For weeks, soldiers and sailors stared each other down. Reinforcements arrived. The standoff grew. Still, nobody pulled a trigger at the other side. Leaders in Washington and London finally cooled it down. They agreed to a joint military occupation. American troops stayed on one end of the island, British Royal Marines on the other. That uneasy peace lasted more than a decade. In 1872, an international arbitrator gave the islands to the United States. The pig was still the only death. No soldiers died fighting each other. Today, the island is a national historical park. Visitors still ask who ate the pig. Nobody knows. Potato patch, one angry shot, and two empires on the brink. History calls it the Pig War. War where almost nothing happened except the pig.",
+   "hook_3s": "In 1859, the United States",
+   "first_5s": "In 1859, the United States and Britain nearly went to war",
+   "word_count": 312,
+   "words_per_sec": 2.61,
+   "outlier_ratio": 0.08
+  },
+  "fnv5ACIlYV8": {
+   "id": "fnv5ACIlYV8",
+   "url": "https://www.youtube.com/shorts/fnv5ACIlYV8",
+   "title": "The Ghost Army: Inside The Secret WWII Unit On A Mission To Deceive | NBC Nightly News",
+   "channel": "NBC News",
+   "channel_url": "https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg",
+   "subscribers": 12200000,
+   "published": "20190428",
+   "views": 21466,
+   "likes": 291,
+   "comments": 25,
+   "duration": 152,
+   "description": "Shortly after D-Day, a top secret unit known as “The Ghost Army” was sent in on a mission to deceive. The group more than one thousand of actors, artists and sound experts worked as decoys in the fight against Nazi Germany.» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC\n» Watch more NBC video: http://bit.ly/MoreNBCNews\n\nNBC News Digital is a collection of innovative and powerful news brands that deliver compelling, diverse and engaging news stories. NBC News Digital features NBCNews.com, MSNBC.com, TODAY.com, Nightly News, Meet the Press, Dateline, and the existing apps and digital e",
+   "tags": [
+    "U.S. News",
+    "Nightly News",
+    "nbc news",
+    "news channel",
+    "news coverage",
+    "breaking news",
+    "us news",
+    "world news",
+    "politics",
+    "nightly news",
+    "current events",
+    "top stories",
+    "pop culture",
+    "business",
+    "health",
+    "nbc nightly news",
+    "lester holt",
+    "nbc news lester holt",
+    "nbc nightly news episode"
+   ],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "it's an iconic image soldiers storming the beaches of Normandy but for decades none of us knew about the top-secret unit sent in just days later that was nineteen years old Bernie blue Stein was an art student handpicked to be part of the 23rd headquarters special troops now known as the ghost army know what the thing we had no idea what our missions would be their mission was to deceive with fake guns and uniforms and sound effects combined with specially designed tanks that looked real but were filled with air 1,100 actors artists and sound experts acting as decoys architect Gilbert Seltzer was an officer we had one incident two Frenchmen saw a tank being lifted by two men and moves they turned to me and they said how can two men lift the tank so I said you know the Americans are very strong that seemed to satisfy them they created illusions to draw the Nazi army into the wrong place to stop them from attacking their last operation in the final weeks of the war a crucial battle in Germany with thousands of lives at stake using every last trick they had we were sitting on the other side of the Rhine from the Germans waving at the Germans and saying hey Here I am should it mean it worked the real fighting force was here 10 miles north 30,000 American soldiers storming across the Rhine River and meeting almost no resistance for decades after the war the mission remained top-secret you didn't tell a soul in to us all the US government finally opened the ghost army files in the mid-1990s Gil is now a hundred and four still a practicing architect Bernie is 95 do you consider yourself a hero I suppose so I don't want to be but I suppose so if we save living one life I'm very very proud of that proud too of how they fought with a lot of imagination and a big dough of bravery kelly cobiella NBC news pearson germany hey NBC news fans thanks for checking out our youtube channel subscribe by clicking on that button down here and click on any of the videos over here to watch the latest interviews show highlights and digital exclusives thanks for watching",
+   "hook_3s": "it's an iconic image soldiers storming",
+   "first_5s": "it's an iconic image soldiers storming the beaches of Normandy but for decades",
+   "word_count": 385,
+   "words_per_sec": 2.54,
+   "outlier_ratio": 4.29
+  },
+  "WRXxgE84iFc": {
+   "id": "WRXxgE84iFc",
+   "url": "https://www.youtube.com/shorts/WRXxgE84iFc",
+   "title": "Learn the tale of the 'Ghost Army' of World War II | U.S. Army",
+   "channel": "The U.S. Army",
+   "channel_url": "https://www.youtube.com/channel/UCs6bj7e__tT_m3s8xxhazhA",
+   "subscribers": 2160000,
+   "published": "20240320",
+   "views": 10124,
+   "likes": 209,
+   "comments": 23,
+   "duration": 95,
+   "description": "Three surviving members of the Ghost Army, the top-secret WWII units that used creative deception to fool the enemy, received the Congressional Gold Medal during a ceremony on March 21, 2024, at the United States Capitol to honor them.\n\nAbout the U.S. Army:\nThe Army Mission – our purpose – remains constant:  To deploy, fight and win our nation’s wars by providing ready, prompt & sustained land dominance by Army forces across the full spectrum of conflict as part of the joint force.\n\nInterested in joining the U.S. Army?\nVisit: https://www.goarmy.com/?iom=BNL7-22-0029_N_OSOC_OCPA_YT_ocpagen_xx_x",
+   "tags": [
+    "Congressional Gold Medal",
+    "Ghost Army",
+    "US Army"
+   ],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "in the annals of World War II there was an Army tactical deception unit clandestine Force Whose actions spoke louder than their silence they were known as the ghost Army on March 2st the United States Congress will award the Congressional gold medal to the 23rd headquarters special troops and the 31 33rd signal Service Company to recognize the extraordinary service of these unsung heroes while serving in Europe during World War II the units engaged in deceptive activities that were pivotal to Allied Victory and significantly reduced casualties ghost army soldiers recruited from art schools advertising agencies and Technical professions brought a unique blend of creativity and Technical Mastery to the battlefield they utilized inflatable tanks soundtracks and false radio Transmissions to create elaborate illusions of sizable American forces confounding the enemy and safeguarding Allied troops for over 50 years their activities remained classified receiving recognition today the United States expresses Eternal gratitude to the ghost Army whose Innovative tactics saved lives and help defeat the Axis powers May their legacy endure reminding us that Heroes whether seen or unseen shape the course of",
+   "hook_3s": "",
+   "first_5s": "in the annals of World War II",
+   "word_count": 185,
+   "words_per_sec": 2.17,
+   "outlier_ratio": 1.36
+  },
+  "CnjL2H3_dxA": {
+   "id": "CnjL2H3_dxA",
+   "url": "https://www.youtube.com/shorts/CnjL2H3_dxA",
+   "title": "Ghost Army | 3 Minute Innovative History",
+   "channel": "Innovative History",
+   "channel_url": "https://www.youtube.com/channel/UCk6bzmg_J7x0AjB-nJuPrWw",
+   "subscribers": 6310,
+   "published": "20160729",
+   "views": 5054,
+   "likes": 43,
+   "comments": 2,
+   "duration": 192,
+   "description": "The story of the 23rd Headquarters Special Troops, or the Ghost Army as they are more commonly known, and how they managed to use special effects and trickery to deceive the Germans during World War 2 (WWII)",
+   "tags": [
+    "World War II",
+    "World War 2",
+    "WW2",
+    "WWII",
+    "The Ghost Army",
+    "Ghost",
+    "Special effects",
+    "Tape Recorder",
+    "23rd Headquarters Special Troops",
+    "Allied Forces",
+    "German Nazis",
+    "Operation Fortitude",
+    "DDay",
+    "Operation Overlord",
+    "Normandy",
+    "Pas-de-Calais",
+    "Secret operations wwii",
+    "operation mincemeat",
+    "juan pujol garcia",
+    "AP EUro",
+    "AP US history",
+    "high school history",
+    "american history"
+   ],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "as Supernatural as it might sound this wasn't an Army of Ghosts but what they were able to accomplish was eerily amazing when the United States officially entered World War II they started recruiting a group of special individuals known as the 23rd headquarters Special Troops these troops included Hollywood special effects experts directors artists and even sound experts and all these soldiers were brought together to form the ghost Army the ghost Army was designed to deceive German forces and one of their first acts came right before D-Day as the Allied troops were preparing to storm the beaches of France some trickery was being set the ghost Army was setting up a fake Landing Force to pull the Germans into thinking the Allies would cross at a different location made up of just over 1,000 men the ghost Army used the art of deception to look like a much bigger Force they used inflatable dummy tanks to imitate entire Allied Forces they even painted insignias from other divisions to trick enemy reconnaissance PLS to create a 100% believable setting they would even use fake Clos lines complet complet with underwear and a few real tanks and trucks one of the most Innovative acts of trickery they used was a set of giant speakers mounted on a half track they use the newly created tape recording machine to record the sounds of real troops and then blast them up to a 15m radius to fool enemy troops the ghost Army even sent fake radio and Morse code messages to add full effect after the Allied Forces landed at D-Day they had to construct massive Harbors known as mberry Harbors so they could offload troops and supplies these these massive floating Harbors were the key to supporting the troops on the ground in France and were subject to raids and attacks from the Germans for over 6 months these floating Harbors were the only way the Allied troops could resupply and they were used both night and day their protection was a top priority the ghost Army was tasked with creating a fake Mulberry Harbor complete with lights and tanks they would divert some of these night raids and attacks from the real Harbor the ghost Army was known for their amazing special effects and amazing lighting abilities the ghost Army completed over 20 missions and amazingly had very few casualties even though the troops were only equipped with fake guns but as the Cold War set in the brave actions of these individuals were classified for almost 40 years finally 1996 these brave soldiers were recognize today you can learn more about them through recent documentary called the ghost Army which attests to The Bravery and Innovation that these soldiers displayed throughout the war",
+   "hook_3s": "",
+   "first_5s": "",
+   "word_count": 465,
+   "words_per_sec": 2.52,
+   "outlier_ratio": null
+  },
+  "Y0a_3KS1jgY": {
+   "id": "Y0a_3KS1jgY",
+   "url": "https://www.youtube.com/shorts/Y0a_3KS1jgY",
+   "title": "The WWII Ghost Army",
+   "channel": "Live Science",
+   "channel_url": "https://www.youtube.com/channel/UCOTA1_oiKnz8po1Rm3nDJPg",
+   "subscribers": 116000,
+   "published": "20200903",
+   "views": 25710,
+   "likes": 222,
+   "comments": 13,
+   "duration": 145,
+   "description": "A secret U.S. Army tactical unit called the \"Ghost Army\" tricked German forces during WWII with fake military displays that were deceptively real. This special U.S. Army unit remained secret for over 40 years! Read the full story of this amazing group: https://www.livescience.com/wwii-ghost-army.html\n\nScience News • Videos • Explainers\nSUBSCRIBE to the Live Science YouTube channel → http://www.shorturl.at/fzCV5\nTwitter→ https://twitter.com/LiveScience\nFacebook→ https://www.facebook.com/livescience\nInstagram→ https://www.instagram.com/live_science/\nCommunity Forums→ https://forums.livescience.c",
+   "tags": [
+    "science",
+    "life",
+    "animal",
+    "sex",
+    "live science",
+    "scientific",
+    "research",
+    "press",
+    "life science",
+    "wwii ghost army",
+    "world war 2",
+    "ww2",
+    "ghost army"
+   ],
+   "access": "page",
+   "fetched": "2026-11-19",
+   "transcript": "",
+   "hook_3s": "",
+   "first_5s": "",
+   "word_count": 0,
+   "words_per_sec": null,
+   "outlier_ratio": 16.59
+  },
+  "sjQA51Ipcio": {
+   "id": "sjQA51Ipcio",
+   "url": "https://www.youtube.com/shorts/sjQA51Ipcio",
+   "title": "Ghost army: How a group of artists helped win WWII",
+   "channel": "CBS News",
+   "channel_url": "https://www.youtube.com/channel/UC8p1vwvWtl6T73JiExfWs1g",
+   "subscribers": 7130000,
+   "published": "20130531",
+   "views": 4625,
+   "likes": 66,
+   "comments": 6,
+   "duration": 140,
+   "description": "During WWII, the United States employed a \"ghost army\" of artists, designers and audio technicians to use sights and sounds to confuse the enemy. Jim Axelrod shares their story.",
+   "tags": [
+    "wwii",
+    "world",
+    "war",
+    "two",
+    "united",
+    "states",
+    "ghost",
+    "army",
+    "artists",
+    "designers",
+    "audio",
+    "technicians",
+    "sights",
+    "sounds",
+    "confuse",
+    "enemy",
+    "nazis",
+    "fighting",
+    "against",
+    "hitler",
+    "watch",
+    "video",
+    "news"
+   ],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "88-year-old Jack Macy's army job during World War II was to blow things up, but not the way you might think. I was in the rubber army, as I called it. The rubber army. The inflatable army. It was 1944. Macy was a 19-year-old aspiring artist who'd just been drafted to fight the Nazis. The army had just the job for him. Macy's unit had a mission to deceive the Germans into thinking Allied forces were in one location while real US troops advanced miles away. Their weapons included decoy Sherman tanks so light they could pick them up. And the Nazis were buying that they were real. We hope so. They became known as the Ghost Army. A thousand artists, designers, and audio technicians using sights and sounds to dupe the enemy. Did you actually take incoming? Yeah, we took incoming. We did have casualties. There weren't many, but there were casualties. The existence of the Ghost Army remained classified for more than half a century after the war. To this day, little is known of these artist warriors, but filmmaker Rick Byer hopes to change with a new documentary called Ghost Army. This is just like so out of left field, you know, you want to preserve that. You want to preserve that quirkiness and so that people understand the kind of the full range of what World War II really involved. Many of these band of creative brothers would go on to successful careers. Bill Blas would become a famous designer and Arthur Singer's paintings would end up on US postage stamps. Macy went on to design backdrops for the State Department, creating the kitchen where Nixon and Cruchef held their famous debate. You've done a lot of important and influential things in the world of design. Where does the rubber army rank? I would rank it, ironically enough, high. It exposed me for the first time to the power of an object to communicate. That's strong stuff. The Ghost Army, an infantry of illusion that gave new meaning to the art of war.",
+   "hook_3s": "88-year-old Jack Macy's army job",
+   "first_5s": "88-year-old Jack Macy's army job during World War II was to",
+   "word_count": 347,
+   "words_per_sec": 2.55,
+   "outlier_ratio": 0.32
+  },
+  "w6etqkoZA1E": {
+   "id": "w6etqkoZA1E",
+   "url": "https://www.youtube.com/shorts/w6etqkoZA1E",
+   "title": "WWII 'Ghost Army' soldiers honored",
+   "channel": "ABC News",
+   "channel_url": "https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q",
+   "subscribers": 19900000,
+   "published": "20240322",
+   "views": 121874,
+   "likes": 1727,
+   "comments": 203,
+   "duration": 102,
+   "description": "Surviving members of an Army unit that led a classified mission of deception during World War II were honored with congressional medals.\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nWatch 24/7 coverage of breaking news and live events on ABC News Live: https://www.youtube.com/watch?v=gN0PZCe-kwQ&ab_channel=ABCNews \n\nWatch full episodes of World News Tonight with David Muir here: https://youtube.com/playlist?list=PLQOa26lW-uI8ixlVw1NWu_l4Eh8iZW_qN&feature=shared \n\nRead ABC News reports online: http://abcnews.go.com\n\nABC News Digital is your daily source of breaking na",
+   "tags": [
+    "ABC",
+    "Army",
+    "News",
+    "Soldiers",
+    "Tonight",
+    "War",
+    "Wars",
+    "World",
+    "classified",
+    "deception",
+    "honor",
+    "honored",
+    "p_cmsid=2494279",
+    "p_vid=news-108369773"
+   ],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "the ghost Army of World War II America strong tonight the new honor for a mission so secret many who knew about it who were part of it took it to the Grave World War II 1300 US soldiers part of the so-called ghost Army top secret military units deployed to fool the Nazis using inflatable rubber trucks inflatable tanks and artillery even inflatable soldiers meant to look real from the air and from a distance even blaring sound effects of Tanks H miles away the strategy deceiving enemy forces freeing up real units to strike unexpectedly saving an estimated 15,000 to 30,000 lives helping to defeat the Nazis the mission remained top secret for 50 years Declassified in 1996 and tonight nearly 80 years later the ghost Army now recognized with the Congressional gold medal three of those veterans were right there today private Seymour Newen bomb then and now Private John Chrisman then and today and private Bernie blin then and now today honoring his fellow soldiers took a lot of hard work with a lot of hardworking people and I'm very proud and happy to be here to receive this honor thank Youk We Salute them too hi everyone George Stephanopoulos here thanks for checking out the ABC News YouTube channel if you'd like to get more videos show highlights and watch live event coverage click on the right over here to subscribe to our Channel and don't forget to download the ABC News app for breaking news alerts thanks for watching",
+   "hook_3s": "the ghost Army of World War II America",
+   "first_5s": "the ghost Army of World War II America strong tonight the new",
+   "word_count": 255,
+   "words_per_sec": 2.54,
+   "outlier_ratio": 14.77
+  },
+  "7W_kQsO6MPc": {
+   "id": "7W_kQsO6MPc",
+   "url": "https://www.youtube.com/shorts/7W_kQsO6MPc",
+   "title": "Making Marvels—Reproduction of the Chess Player (The Turk)",
+   "channel": "The Met",
+   "channel_url": "https://www.youtube.com/channel/UCDlz9C2bhSW6dcVn_PO5mYw",
+   "subscribers": 527000,
+   "published": "20191122",
+   "views": 228037,
+   "likes": 3578,
+   "comments": 107,
+   "duration": 126,
+   "description": "Touted as an android that could defeat chess masters, Wolfgang von Kempelen's famed illusion debuted at the court of Empress Maria Theresa during wedding celebrations for her daughter in 1769. Over the course of the eighteenth century, the chess player (known in its time as The Turk for its costume) won games against Catherine the Great and Benjamin Franklin. When Napoléon Bonaparte tried to cheat, it wiped all the pieces from the board. The mysterious machine sparked discussions of the possibilities and limits of artificial intelligence, and it inspired the development of the power loom, the ",
+   "tags": [
+    "The Met",
+    "The Metropolitan Museum of Art",
+    "Art",
+    "Museum",
+    "History",
+    "New York",
+    "New York City",
+    "Education",
+    "Entertainment",
+    "Marvels",
+    "Inventions",
+    "Technology",
+    "Engineering",
+    "Innovation",
+    "Opulence",
+    "Machines",
+    "Decorative Art",
+    "European Decorative Art",
+    "Automata",
+    "Automaton",
+    "Clock",
+    "Illusions",
+    "Mechanical",
+    "Android",
+    "Artificial Intelligence"
+   ],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "♫ Classical Music ♫",
+   "hook_3s": "♫",
+   "first_5s": "♫",
+   "word_count": 4,
+   "words_per_sec": 0.04,
+   "outlier_ratio": 70.17
+  },
+  "RdT4yG8wczQ": {
+   "id": "RdT4yG8wczQ",
+   "url": "https://www.youtube.com/shorts/RdT4yG8wczQ",
+   "title": "Chess Robot The Turk",
+   "channel": "Desweef",
+   "channel_url": "https://www.youtube.com/channel/UCx7q4K0uZ_Z5ZQIhEh5Sgtw",
+   "subscribers": 3520,
+   "published": "20070815",
+   "views": 411561,
+   "likes": 2473,
+   "comments": 162,
+   "duration": 186,
+   "description": "A short video about the first chess robot called The Turk.",
+   "tags": [
+    "chess",
+    "robot",
+    "turk"
+   ],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "autometer had been a very popular part of magical entertainment since the 18th century popular because they often appear to interact with the public one of the most famous uh autometer or pseudo autometer is the chess playing automatan of wolf Gan Von kemplin modeled on a Turkish figure and built in 1770 for an Austrian Empress this life-size automatan traveled through Europe playing chess and defeating commoners and Kings alike after a century long career he has recently been restored to full working order Von klin would uh would push out the chess player the machine itself and pull out a set of keys he would then open the left hand door exposing all of machinery and take a lit candle around to the back and open the door there to show that there's nothing but Machinery in there now again leaving all of the doors flapping in the breeze he would roll the whole machine around and show that The Turk had a couple of small doors inside his back and in his legs and lifting up his robe again just exposed the Machinery then turn it all back around and lock it up and he's ready for the performance with lifelike movements uniring judgment and his expressionless face the chess player proved to be an intimidating opponent after alleged victories over Napoleon Benjamin Franklin and Katherine the Great of Russia author edar aleno became obsessed with uncovering the secret theories ranged from off-stage assistance with remote control devices electromagnets but the most popular speculation involved a hidden chess expert despite the fact that the cabinet appeared only large enough to contain the Clockwork mechanism one of the biggest fictions that has arisen around it was actually perpetrated by no less than Rober hudan in his Memoirs he claimed that this automatan was made uh in order to conceal a legless polish Warrior this unfortunate man called vusi had had his leg shattered with a cannon and that was a motor upan the chess player even exhibited a chess Master's temperament growing impatient if an opponent took too long to make a move if an opponent dared to make an illegal move thinking that the automatan wouldn't know the chess player would would take dramatic action even today the idea",
+   "hook_3s": "autometer had been a very popular",
+   "first_5s": "autometer had been a very popular part of magical entertainment since",
+   "word_count": 382,
+   "words_per_sec": 2.08,
+   "outlier_ratio": null
+  },
+  "Wy_iuayaop8": {
+   "id": "Wy_iuayaop8",
+   "url": "https://www.youtube.com/shorts/Wy_iuayaop8",
+   "error": "unavailable",
+   "outlier_ratio": null
+  },
+  "fQvupP9eKeQ": {
+   "id": "fQvupP9eKeQ",
+   "url": "https://www.youtube.com/shorts/fQvupP9eKeQ",
+   "title": "How I beat The Mechanical Turk chess bot in 20 moves",
+   "channel": "dcw",
+   "channel_url": "https://www.youtube.com/channel/UCRxM-ijE2UNoajgoAiDwG8g",
+   "subscribers": 15,
+   "published": "20250527",
+   "views": 804,
+   "likes": 10,
+   "comments": 1,
+   "duration": 82,
+   "description": "I finished The Mechanical Turk in one minute. See how I did it!",
+   "tags": [],
+   "access": "page",
+   "fetched": "2026-11-19",
+   "transcript": "",
+   "hook_3s": "",
+   "first_5s": "",
+   "word_count": 0,
+   "words_per_sec": null,
+   "outlier_ratio": null
+  },
+  "hZDlF7-fa9Y": {
+   "id": "hZDlF7-fa9Y",
+   "url": "https://www.youtube.com/shorts/hZDlF7-fa9Y",
+   "title": "Proces Han van Meegeren (1947)",
+   "channel": "NostalgieNL",
+   "channel_url": "https://www.youtube.com/channel/UC7U_dc8shvYKBXd6XUuEHEw",
+   "subscribers": 96,
+   "published": "20110919",
+   "views": 28312,
+   "likes": 154,
+   "comments": 9,
+   "duration": 120,
+   "description": "http://nl.wikipedia.org/wiki/Han_van_Meegeren",
+   "tags": [
+    "Proces",
+    "Han",
+    "van",
+    "Meegeren",
+    "1947",
+    "rechbank",
+    "schilderijen",
+    "vervalsing",
+    "kunst",
+    "nostalgie",
+    "geschiedenis",
+    "amsterdam",
+    "yt:stretch=16:9"
+   ],
+   "access": "page",
+   "fetched": "2026-11-19",
+   "transcript": "",
+   "hook_3s": "",
+   "first_5s": "",
+   "word_count": 0,
+   "words_per_sec": null,
+   "outlier_ratio": null
+  },
+  "LLsFRfovyTk": {
+   "id": "LLsFRfovyTk",
+   "url": "https://www.youtube.com/shorts/LLsFRfovyTk",
+   "title": "Ui97 - Han van Meegeren – The Master Forger",
+   "channel": "CK English",
+   "channel_url": "https://www.youtube.com/channel/UCxnLSEQY8dHfyA8upPTRgTw",
+   "subscribers": 346,
+   "published": "20260422",
+   "views": 82,
+   "likes": 1,
+   "comments": null,
+   "duration": 76,
+   "description": "This video is part of the Upper-Intermediate English Course.\n\nYou can find out more about our course here: www.ckenglish.com/ui \n\nHere is the link to the English exercise: https://forms.gle/sKVr1LcGxCofoQz3A \n\nPlease like and subscribe!",
+   "tags": [],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "Is modern art a lie? One of the most famous art hoaxes came from Han Van Magaran, a Dutch painter in the 20th century. Frustrated by critics who dismissed his work, he decided to get revenge. Van Magaran began to make up paintings in the style of Johannes Vamir, one of the most celebrated Dutch masters. He managed to pass off his forgeries as authentic viring the greatest art experts of his time. Even the Nazi leader Herman Goring bought one, believing it was genuine. For years, critics praised the paintings, but eventually some people began to call out inconsistencies. After World War II, Van Magaran was arrested for selling national treasures to the Nazis. To save himself from execution, he confessed that the Vimeirs were his own work. The truth shocked the art world. It turned out that experts had been completely fooled. Van Moran later even turned in several of his own paintings as proof. His story raises the question, if even experts can be tricked, how do we really know what's real in modern art? This is a video by CK English. There is a link to an English exercise in the video description. Please like and",
+   "hook_3s": "Is modern art a lie? One of the most famous",
+   "first_5s": "Is modern art a lie? One of the most famous art hoaxes came from Han Van Magaran,",
+   "word_count": 200,
+   "words_per_sec": 2.69,
+   "outlier_ratio": null
+  },
+  "BXv1s3Zfaio": {
+   "id": "BXv1s3Zfaio",
+   "url": "https://www.youtube.com/shorts/BXv1s3Zfaio",
+   "title": "Fooling the Nazis: Tel Aviv exhibit looks at art forger who duped Hermann Goering",
+   "channel": "Maya Margit",
+   "channel_url": "https://www.youtube.com/channel/UCswFeroQMBWBdO9r9VTjDoA",
+   "subscribers": 4340,
+   "published": "20161025",
+   "views": 1842,
+   "likes": 9,
+   "comments": null,
+   "duration": 212,
+   "description": "Dutch artist Han van Meegeren (1889-1947) was the 20th century's most notorious forger. In the 1930s and 1940s, he created paintings in the style of Dutch masters Johannes Vermeer and Pieter de Hooch – passing them off as originals.\n\nFor the full article, click: http://www.i24news.tv/en/news/culture/128272-161022-fooling-the-nazis-the-art-forger-who-duped-hermann-goering\n\nFollow me on Twitter: @mayamargit",
+   "tags": [
+    "art",
+    "forgery",
+    "Tel Aviv",
+    "Israel",
+    "exhibition",
+    "painting",
+    "fake",
+    "Han van Meegeren",
+    "Holland",
+    "Netherlands",
+    "World War II",
+    "Nazis",
+    "Hermann Goering",
+    "i24news"
+   ],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "and I'm very different note what if you bought a work of art by one of your favorite artists for a hefty sum of cash only to find out years later that it's actually a fake and almost entirely worthless a new exhibit right here in Israel takes a look at that question as well as one of the most infinite supporters of the 20th century my market went to take a look he fooled the world and became a full Kiro Dutch artist Han Van Meegeren is the 20th century's most notorious forger in the 1930s and 1940s he created paintings in the style of Vermeer and passed them off as originals now an exhibition at the Tel Aviv Museum is looking at the whole spectrum that exists between what's real and what's fake if I would say that Marian was awful as an artist mediocre at best that as a forger he was one of the best of his kind because he had the goal to create a period that never existed in familles career his early period if academic fellow indeed Van Meegeren forgeries were different from the famous 17th century Dutch artists real paintings the forger painted in his own style while adding visual references to Vermeer and selling the product for millions of dollars at the time major museums and experts flocked to these newly discovered masterpieces miron never made any mistakes he always used real pigments the same ones used in 17th century and he also brought old 17th century and paintings at the flea market which he paid to these forgeries so how was he caught in May 1945 right after the end of World War two and the liberation of Holland the Allied forces stumbled upon top Nazi leader Hermann Goering zart collection varying had stolen thousands of priceless artworks all across Europe hoarding them in storerooms for his own personal the collection goes on display for GIS before an allied commission attempts to return everything to the proper owners among the artworks the uncovered this van me Hurons woman taken in adultery Hilde as one of the best Vermeer's ever painted the painting came under investigation and authorities soon found out Van Meegeren was involved but they didn't think he was a forger instead he was accused of treason they accused him of treason and of setting national treasures to the enemy he could have been sentenced to death especially with the prevailing atmosphere in Holland at the time after being under investigation for two weeks he surprised his interrogators and declared gentlemen I'm not a traitor in fact I'm a hero fakes after proving he was behind other well-known fakes Van Meegeren was sentenced to one year in prison he was no longer a traitor instead he was the man who had swindled Goering he became a cultural icon in Holland because the masses really enjoyed reading about his case in the newspaper you wouldn't like a story about a small-time painter fooding art snobs he thinks I know everything but Van Meegeren would never spend a day in jail just hours before he was due to serve out his sentence he had a heart attack and died escaping justice to the end",
+   "hook_3s": "and I'm very",
+   "first_5s": "and I'm very different note what if you bought a work of art",
+   "word_count": 543,
+   "words_per_sec": 2.6,
+   "outlier_ratio": null
+  },
+  "AFh0v3aE4YM": {
+   "id": "AFh0v3aE4YM",
+   "url": "https://www.youtube.com/shorts/AFh0v3aE4YM",
+   "title": "The Master Forger Who Outsmarted the World's Best Art Experts",
+   "channel": "The Hidden Canvas",
+   "channel_url": "https://www.youtube.com/channel/UCHOZb9onmXBF1Fo9Jd0-n_w",
+   "subscribers": 400,
+   "published": "20260925",
+   "views": 66,
+   "likes": null,
+   "comments": null,
+   "duration": 234,
+   "description": "He fooled art experts, museums, collectors—and even Hermann Göring.\n\nHan van Meegeren was a Dutch painter who became one of history's most notorious art forgers. His greatest deception began with a supposed lost masterpiece by Johannes Vermeer and eventually led to a painting entering Hermann Göring's Nazi art collection.\n\nBut how did a relatively obscure artist convince the art world that his paintings were genuine Vermeers?\n\nAnd when the truth finally emerged, why did the experts believe him only after he claimed that he had painted the masterpieces himself?\n\nThis is the extraordinary story ",
+   "tags": [
+    "Han van Meegeren",
+    "Han van Meegeren forgery",
+    "Han van Meegeren Vermeer",
+    "Fake Vermeer",
+    "fake Vermeer painting",
+    "Hermann Göring art",
+    "Hermann Goering",
+    "Vermeer forgery",
+    "art forgery",
+    "famous art forgeries",
+    "art fraud",
+    "art history mystery",
+    "Nazi art collection",
+    "Nazi looted art",
+    "The Supper at Emmaus",
+    "Christ and the Adulteress",
+    "Johannes Vermeer",
+    "master forger",
+    "art scandals",
+    "Hidden Canvas"
+   ],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "Van Meegeren eventually produced his first major Vermeer forgery, The Supper at Emmaus. The subject came from the New Testament. Christ appears at Emmaus after his resurrection, and the painting was dramatically different from the small domestic scenes most people associated with Vermeer. Van Meegeren had chosen his subject carefully. He also made the painting difficult to challenge scientifically. He used an old canvas. He manipulated the pigments. He baked the painting to harden the surface and create cracks that suggested centuries of aging. He worked with materials intended to withstand examination. The result looked old. But the most important part of the forgery was not the physical aging. It was the story. Van Meegeren needed someone with authority to believe in the painting. And that person was Abraham Bredius. Bredius was already elderly and living in Monaco when he was shown photographs of the supposed discovery. He became Eventually, he examined the painting itself. He was convinced. In 1937, Bredius published an enthusiastic assessment of The Supper at He considered it an extraordinary discovery. The painting was accepted as a major Vermeer. The Dutch art world celebrated it. For Van Meegeren, this was the moment when revenge became reality. The man whom critics had dismissed as a mediocre painter had created a painting that some of the greatest authorities in the field considered a masterpiece. And the money began to flow. The Supper at Emmaus was acquired for a huge amount through the Boijmans Museum in Rotterdam. Van Meegeren had succeeded. But instead of stopping, he continued. Over the following years, more supposed Vermeers appeared. Each new painting seemed to fill another gap in the artist's career. There was The Last Supper, The Head of Christ, The Washing of the Feet, and other works attributed to Vermeer or associated with his circle. The paintings were not identical. They did not need to be. Van Meegeren understood something important about the art market. Experts did not simply examine paintings in isolation. They interpreted them through existing theories. If a painting seemed to answer a question about an artist's development, it could become more convincing because it fit a story that experts already wanted to tell. Van Meegeren was not only forging paintings. He was forging art history. Then Europe descended into war. In 1940, Nazi Germany invaded the Netherlands. The occupation transformed the country. Jewish citizens were persecuted and deported. Works of art were seized. Museums and private collections were looted. Nazi leaders competed to acquire masterpieces for themselves and for the planned cultural empire of the Third Reich. Among the most aggressive collectors was Hermann Göring. Göring was second only to Hitler in power for much of the Nazi regime. He accumulated an enormous art collection, much of it acquired through confiscation, coercion, or outright theft. And then Göring encountered a painting that he believed was a lost The work was known as Christ and the Adulteress. Göring wanted it. A deal was arranged. The painting was exchanged for a fortune in money and other works. Göring acquired what he believed was a masterpiece by one of the greatest Dutch Van Meegeren had now reached a point that he could never have anticipated. His forgery had entered the collection of one of the most notorious figures in Nazi Germany.",
+   "hook_3s": "Van Meegeren eventually produced his first major",
+   "first_5s": "Van Meegeren eventually produced his first major Vermeer forgery, The Supper",
+   "word_count": 550,
+   "words_per_sec": 2.36,
+   "outlier_ratio": null
+  },
+  "L2uy8oJ2RH0": {
+   "id": "L2uy8oJ2RH0",
+   "url": "https://www.youtube.com/shorts/L2uy8oJ2RH0",
+   "title": "Dutch History: Trial Against Art Forger Han van Meegeren (1947)",
+   "channel": "The Dutch Table",
+   "channel_url": "https://www.youtube.com/channel/UC-jl_9a9kEQdBpfsCD3mtvA",
+   "subscribers": 1480,
+   "published": "20230506",
+   "views": 233,
+   "likes": 6,
+   "comments": 1,
+   "duration": 134,
+   "description": "⚙️ Click on \"settings\" in the video to select English or Dutch subtitles.\n\nEN - The trial against the painter and forger Han van Meegeren begins before the District Court in Amsterdam. Van Meegeren had paintings by his hand passed off as those by the old masters (Vermeer, Hals, De Hoogh) and made huge sums of money. For more information: https://en.wikipedia.org/wiki/Han_van_Meegeren\n\nNL - Voor de Arrondissementsrechtbank te Amsterdam begint het proces tegen de kunstsschilder en vervalser Han van Meegeren. Van Meegeren liet schilderijen van zijn hand doorgaan voor die van oude meesters (Vermee",
+   "tags": [],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "A trial will be held in the Amsterdam court in which the whole world is interested: the trial against the painter Han van Meegeren. The day before, the notorious paintings are brought in with a moving van, which Van Meegeren has produced in such a refined manner in the vein of famous old masters that the world did not doubt the authenticity and paid enormous sums for these forgeries. In the courtroom where they will be hanged, a police department has taken over for the night. On the first day of the trial, the prosecutor Mr. Wassenberg, who will present as evidence, among other things, glasses and jugs from Van Meegeren's possession that can be found in some paintings. \"The Last Supper\", one of the paintings with the signature Vermeer. Interior after Pieter de Hooch. \"Isaac blesses Jacob\", again to Vermeer, as well as the Supper at Emmaus, which was sold to the Boymans Museum for one and a quarter million guilders. \"Christ and the scribes\", Van Meegeren painted the latter, who we see here on his way to court, as is known on behalf of the Justice Department to prove that his self-accusation was correct. The courtroom, which looks a lot like a museum, is packed when Van Meegeren takes a seat in the dock. The judges are coming. The Public Prosecution Service gets the floor and then the Van Meegeren trial has started.",
+   "hook_3s": "",
+   "first_5s": "",
+   "word_count": 235,
+   "words_per_sec": 1.89,
+   "outlier_ratio": 0.37
+  },
+  "DTTI1fR8fsc": {
+   "id": "DTTI1fR8fsc",
+   "url": "https://www.youtube.com/shorts/DTTI1fR8fsc",
+   "title": "The Shocking Truth of Han van Meegeren Master Art Forger and WWII Deceiver",
+   "channel": "NightNoble",
+   "channel_url": "https://www.youtube.com/channel/UCbp795tdA6n8uFpYNTkUyxQ",
+   "subscribers": 110,
+   "published": "20240504",
+   "views": 8,
+   "likes": null,
+   "comments": null,
+   "duration": 102,
+   "description": "",
+   "tags": [],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "background music and suspenseful orchestral welcome history enthusiasts to a tale shrouded in intrigue and controversy a chapter of the past that continues to Fascinate and perplex Scholars to this day our story delves Into the Depths of the Renaissance period where a notorious figure cast a shadow over the art world with his audacious acts of deception Renaissance Art Gallery enter the enigmatic Art Forger Han van Muran a masterful Craftsman who skillfully deceived the art world with his impeccable forgeries of famous Dutch Masters imagy working on a painting with a cunning eye for detail and a talent for mimicry van migran successfully passed off his own Creations as Priceless masterpieces fooling experts and collectors alike as we delve deeper into van M's web of Deceit we uncover the shocking Revelation that he not only duped the art world but also played a pivotal role in a daring Act of wartime deception narrator during the chaos of World War II van miger and collaborated with the Nazi regime selling his forgeries to high ranking officials in exchange for wealth and influence Han van migran meeting with Nazi officials however in a twist of fate his intricate Web of Lies would unravel leading to his arrest and a sensational trial that captivated the world narrator as we confront the moral complexities of Van mig's actions we are left pondering the Blurred Lines between Artistry and deception and the enduring Legacy of his scandalous Saga image courtroom scene from The Trial of Han migam his story serves as a cautionary tale a reminder of the seductive Allure Of Fame and Fortune and the consequences of betrayal and frud fraud in the pursuit of a claim and so the tale of Han Von Muran The Art Forger extraordinaire stands as a testament to the power of deception and the Eternal Quest for authenticity in the world of Art and history",
+   "hook_3s": "background music and suspenseful orchestral welcome",
+   "first_5s": "background music and suspenseful orchestral welcome history enthusiasts to a tale shrouded",
+   "word_count": 319,
+   "words_per_sec": 3.16,
+   "outlier_ratio": 0.11
+  },
+  "Zdpm4H9zikM": {
+   "id": "Zdpm4H9zikM",
+   "url": "https://www.youtube.com/shorts/Zdpm4H9zikM",
+   "title": "Criminal Pigs: The Bizarre Story of Medieval Animal Trials",
+   "channel": "Absolute History",
+   "channel_url": "https://www.youtube.com/channel/UCr5qeBG9g7bGtMGyHG2GzbQ",
+   "subscribers": 3700000,
+   "published": "20220615",
+   "views": 14263,
+   "likes": 640,
+   "comments": 53,
+   "duration": 72,
+   "description": "Did you know that medieval Europe was full of criminal pigs? Animals had to obey the law and were regularly put on trial. \n\nIt's like Netflix for history... Sign up to History Hit to start watching now https://bit.ly/45CPh5u\n\nThis channel is part of the Little Dot Studios Network. Any queries please contact: owned-enquiries@littledotstudios.com\n\n#AbsoluteHistory",
+   "tags": [
+    "animal behavior",
+    "animal cognition",
+    "animal cognition studies",
+    "animal ethics",
+    "bizarre laws",
+    "court trials",
+    "criminal justice system",
+    "criminal pigs",
+    "funny history",
+    "historical trials",
+    "justice system",
+    "law and animals",
+    "law and society",
+    "legal practices",
+    "legal systems",
+    "medieval animals",
+    "medieval justice",
+    "medieval legal system",
+    "medieval trials",
+    "strange laws"
+   ],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "did you know that medieval europe was full of criminal pigs this is because in medieval europe animals had to follow the same laws as humans and were regularly put on trial let's say for example you are a medieval peasant and you end up being killed by a gang of enraged pigs well you can at least die happy knowing that those pigs will be put on trial for murder pigs were particularly hard hit by these laws this is perhaps due to their relative freedom being allowed to roam about the village battering peasants but the crimes of pigs didn't stop with just bodily harm with one pig being put to death for eating a consecrated wafer this was to the surprise of the owner who claimed that the animal had previously been very mild-mannered beyond pigs large swarms of insects were also regularly put on trial and given orders to leave a village at the hour decided by the court sadly it seems that large swarms of insects had little regard for the rule of law similarly rats were often sent a strongly worded letter asking them to vacate a property if you had an infestation now this practice didn't result in animals becoming good law-abiding citizens and as such it was basically just a bit cruel and a waste of time or maybe that's just what the pigs want you to think",
+   "hook_3s": "did you know that medieval europe was full of criminal",
+   "first_5s": "did you know that medieval europe was full of criminal pigs this is because in medieval",
+   "word_count": 236,
+   "words_per_sec": 3.34,
+   "outlier_ratio": 0.11
+  },
+  "MFtYk-ZqoHc": {
+   "id": "MFtYk-ZqoHc",
+   "url": "https://www.youtube.com/shorts/MFtYk-ZqoHc",
+   "error": "unavailable",
+   "outlier_ratio": null
+  },
+  "NhJH2hrjPoo": {
+   "id": "NhJH2hrjPoo",
+   "url": "https://www.youtube.com/shorts/NhJH2hrjPoo",
+   "title": "Medieval Animal Trials: When Pigs Faced Justice! 🐖⚖️ #Shorts",
+   "channel": "Zack D. Films ",
+   "channel_url": "https://www.youtube.com/channel/UCAGtBLQfq9iBxCEIqdn32CQ",
+   "subscribers": 45,
+   "published": "20241011",
+   "views": 0,
+   "likes": null,
+   "comments": null,
+   "duration": 66,
+   "description": "",
+   "tags": [],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "imagine a world where animals face the ultimate judgment in courtrooms yes in the Middle Ages pigs goats and even insects could be put on trial facing humanlike punishments for their crimes these trials were no joke they followed the same rigorous procedures as those for humans complete with legal representation and public hearings picture a pig dressed in human clothes standing in the dock as a evil times this bizarre practice stemmed from the belief that animals when they caused harm were tools of the devil or had disrupted the divine order and thus deserved Justice sometimes the accused animals were even executed demonstrating a unique albeit perplexing interpretation of justice that blurred the lines between human and animal responsibility the trials serve as a fascinating glimpse into the medieval mind where Justice was not just about humans but extended to all creatures reflecting deep rooted beliefs about crime punishment and morality",
+   "hook_3s": "imagine a world where animals face the ultimate judgment in",
+   "first_5s": "imagine a world where animals face the ultimate judgment in courtrooms yes in the Middle Ages",
+   "word_count": 153,
+   "words_per_sec": 2.36,
+   "outlier_ratio": 0.0
+  },
+  "kRQxCnxQwf0": {
+   "id": "kRQxCnxQwf0",
+   "url": "https://www.youtube.com/shorts/kRQxCnxQwf0",
+   "title": "When Pigs Went to Court  The Surprising Truth About Medieval Animal Trials",
+   "channel": "Knew About This?",
+   "channel_url": "https://www.youtube.com/channel/UC7b4BfLkJyvJMrXwDw7mMIA",
+   "subscribers": 3,
+   "published": "20240527",
+   "views": 0,
+   "likes": null,
+   "comments": null,
+   "duration": 66,
+   "description": "",
+   "tags": [],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "believe it or not the medieval courtroom wasn't just for humans animals from pigs to insects found themselves on trial accused of crimes ranging from theft to murder Yes you heard that right medieval Justice extended to All Creatures Great and Small imagine a pig dressed in human clothes standing trial before a judge sounds absurd doesn't it but such scenes were not uncommon in one notable case a pig was executed for the murder of a child the trial was conducted with as much seriousness as if the defendant were a human being these animal trials weren't just about punishment they reflected a worldview where animals were seen as part of the moral and legal Community capable of committing crimes and thus subject to the Law's Authority and it wasn't just domestic animals facing the gavl insects and pests could be tried for destroying crops rather than execution these tiny defendants were often excommunicated or ordered to leave the area a decree that was as effective as you'd expect so next time you're feeling guilty about blaming the dog for eating your homework remember that in medieval times he might have had his day in court",
+   "hook_3s": "believe it or not the medieval courtroom wasn't just for humans",
+   "first_5s": "believe it or not the medieval courtroom wasn't just for humans animals from pigs to",
+   "word_count": 197,
+   "words_per_sec": 3.04,
+   "outlier_ratio": 0.0
+  },
+  "j84_n1aDbBg": {
+   "id": "j84_n1aDbBg",
+   "url": "https://www.youtube.com/shorts/j84_n1aDbBg",
+   "error": "unavailable",
+   "outlier_ratio": null
+  },
+  "Ghb3CZ5NT8k": {
+   "id": "Ghb3CZ5NT8k",
+   "url": "https://www.youtube.com/shorts/Ghb3CZ5NT8k",
+   "error": "unavailable",
+   "outlier_ratio": null
+  },
+  "HiqY8YK_7pw": {
+   "id": "HiqY8YK_7pw",
+   "url": "https://www.youtube.com/shorts/HiqY8YK_7pw",
+   "error": "unavailable",
+   "outlier_ratio": null
+  },
+  "SU_HlxmgPPs": {
+   "id": "SU_HlxmgPPs",
+   "url": "https://www.youtube.com/shorts/SU_HlxmgPPs",
+   "title": "Who Were the Plague Doctors? The Fascinating Truth Behind the Bizarre-Looking Medical Professionals",
+   "channel": "See U in History / Mythology",
+   "channel_url": "https://www.youtube.com/channel/UC9u3UqkoikJ9Nr8t4wvyNRQ",
+   "subscribers": 2360000,
+   "published": "20230907",
+   "views": 68665,
+   "likes": 1304,
+   "comments": 59,
+   "duration": 177,
+   "description": "This video is a fascinating look at a dark chapter in history, and it offers insights into the ways that people have coped with disease and death. It's also a reminder of the importance of science and research in the fight against disease.\n\nThe Plague Doctors - Historical Curiosities - See U in History\n\n#SeeUinHistory #History",
+   "tags": [
+    "history",
+    "See You in History",
+    "See u in history",
+    "The Plague Doctors",
+    "Plague",
+    "Historical Curiosities"
+   ],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "it is likely that you have already encountered the depiction of these Sinister figures they look like characters out of a steampunk fiction story but they actually existed in the 17th century they are the plague doctors although popular culture Associates these doctors with the famous 14th century black death the plague doctors only began wearing their iconic long beaked mask 300 years after the outbreak of the famous pandemic that devastated the notorious costume of these doctors first appeared in Paris in 1619 created by Frenchman Charles DeLorme who donned it to fight the Paris plague that same reports state that he treated most of the patients during the outbreak with relative success as lorm was an experienced physician he became famous in Venice when he cured the Doge of a serious illness he was also chosen as the personal physician of the powerful Medici family eventually also becoming Louis X doctor his eccentric clothing made him famous and he was imitated by other doctors healers and Quacks due to the many fake doctors who wore these costumes documents of the time claim that these men only further terrified the poor plague victims who were already suffering from the disease their Sinister presence made everything the birdspeak mask was recognizable from a distance causing fear in those nearby inside the beak of the Mask were small containers filled with aromatic items such as mint clove or lavender they believed that this would ward off bad odors which were thought to be one of the sources of the diseases but the plague was spread by rat fleas that infested the cities besides the wide brimmed hat in Black robes they had a cane that served to keep people at a distance and give orders the main treatment indicated by plate doctors was bloodlighting and the use of leeches but these methods were ineffective it is said that the plague doctors did little Beyond counting the dead but many did exert themselves and died trying to contain the plague the renowned astrologer Nostradamus was a plague doctor and fought against bloodletting as a treatment he believed it to be something entirely innocuous at that time doctors did not yet have access to antibiotics and there was little they could do to help their patients despite all their efforts",
+   "hook_3s": "it is likely that you have already encountered",
+   "first_5s": "it is likely that you have already encountered the depiction of these Sinister",
+   "word_count": 387,
+   "words_per_sec": 2.51,
+   "outlier_ratio": 17.61
+  },
+  "Urd_5slFL1Y": {
+   "id": "Urd_5slFL1Y",
+   "url": "https://www.youtube.com/shorts/Urd_5slFL1Y",
+   "title": "Oddly Folded: History That Sounds Fake (But It's 100% True)",
+   "channel": "Oddly Folded",
+   "channel_url": "https://www.youtube.com/channel/UC6sVYJfq6mzV-o4LV7ssL_w",
+   "subscribers": 24,
+   "published": "20261025",
+   "views": 42,
+   "likes": 2,
+   "comments": null,
+   "duration": 33,
+   "description": "An army that lost to birds. A bear who joined the army. A war over one pig. A marathon \"winner\" who rode in a car.\n\nOddly Folded tells history's strangest true stories, told in folded paper. Subscribe and let's unfold the next one.\n\n#history #weirdhistory #historyfacts",
+   "tags": [
+    "oddly folded",
+    "weird history",
+    "history facts",
+    "strange history",
+    "true stories",
+    "origami",
+    "paper animation",
+    "emu war",
+    "pig war",
+    "dancing plague"
+   ],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "Once, an army went to war against birds and lost. A bear joined the army with his own paybook. Two countries nearly went to war over one pig. And the first man across the line in an Olympic marathon had hitched a ride in a car. None of this sounds real. All of it is. This is Oddly Folded, history that sounds fake but it's 100% [music] true. A new story every day and a longer episode every week. Subscribe and let's unfold the next one.",
+   "hook_3s": "Once, an army went to war against birds",
+   "first_5s": "Once, an army went to war against birds and lost.",
+   "word_count": 86,
+   "words_per_sec": 2.77,
+   "outlier_ratio": 0.21
+  },
+  "QoUllfeM6c0": {
+   "id": "QoUllfeM6c0",
+   "url": "https://www.youtube.com/shorts/QoUllfeM6c0",
+   "title": "Crazy Historical Events That Sound Fake But Are 100% True | George Takei’s Oh Myyy",
+   "channel": "George Takei's Oh Myyy",
+   "channel_url": "https://www.youtube.com/channel/UCcF1_LhTdHqA7pGOCcUTB_Q",
+   "subscribers": 39600,
+   "published": "20210617",
+   "views": 3032,
+   "likes": 13,
+   "comments": null,
+   "duration": 167,
+   "description": "We've all heard of the French conqueror Napoleon Bonaparte right? But did you know that one of his biggest defeats was at the paws of bunnies? A rabbit hunt went terribly wrong for the emperor when 3,000 rabbits were released from cages and promptly attacked Napoleon and his men. Apparently, the fuzzy creatures felt no fear when faced with humans and their weapons. Rabbits climbed up the men's legs and coats, and only stopped when the hunting party fled to their carriages. The history buffs of Reddit flocked to answer the question: what is the craziest historical event that sounds fake but is ",
+   "tags": [
+    "best of reddit",
+    "craziest historical events",
+    "reddit top posts",
+    "top posts",
+    "reddit",
+    "askreddit top posts",
+    "reddit stories",
+    "askreddit",
+    "crazy historical events that are true",
+    "insane historical events",
+    "unbelievable historical events",
+    "unbelievable",
+    "history",
+    "crazy history stories",
+    "true stories",
+    "stories",
+    "unbelievable stories that are true",
+    "true story",
+    "craziest true stories",
+    "reddit true stories"
+   ],
+   "access": "page",
+   "fetched": "2026-11-19",
+   "transcript": "",
+   "hook_3s": "",
+   "first_5s": "",
+   "word_count": 0,
+   "words_per_sec": null,
+   "outlier_ratio": 1.52
+  },
+  "VAnVJ4Hti_U": {
+   "id": "VAnVJ4Hti_U",
+   "url": "https://www.youtube.com/shorts/VAnVJ4Hti_U",
+   "title": "5 Facts That Sound Fake: Fossils, Animals and Time",
+   "channel": "Sounds Fake Checks Out",
+   "channel_url": "https://www.youtube.com/channel/UCIlhLOZgqDYjo-lLKB9GIQA",
+   "subscribers": 1,
+   "published": "20261101",
+   "views": 0,
+   "likes": null,
+   "comments": null,
+   "duration": 213,
+   "description": "5 source-checked stories, rebuilt for a full-width 16:9 evidence countdown with the approved original narration. Ranked by recorded 28-day YouTube views, not a claim that these are the biggest stories on YouTube.\n\nSource: https://www.metmuseum.org/exhibitions/listings/2000/mummy-portraits\nSource: https://egyptianmuseum.org/explore/old-kingdom-monuments-pyramids-of-giza\nSource: https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/\nSource: https://ocean.si.edu/ocean-life/sharks-rays/sharks\nSource: https://www.nature.com/articles/nature05705\nSource: https://link.springer",
+   "tags": [
+    "birds are dinosaurs",
+    "science explained",
+    "sharks",
+    "weird facts"
+   ],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "Wombats poop cubes, not roughly square. Bare-nosed wombats are the only known species that produce cube-shaped droppings. Each cube is about 2 cm on a side, and one wombat can leave 80 to 100 a night. The shaping happens late in the final 17% of the large intestine across roughly 40,000 muscular contractions. The trick is uneven walls. Stiff regions contract faster, flexible regions slower, and that mismatch gradually presses flat sides and corners. Those edges survive because the droppings are drier, about 60% water versus roughly 80 in human feces. Verdict, it checks out. This research won the 2019 Ig Nobel Prize in physics. The Appalachian Mountains are older than the Atlantic Ocean. Not slightly older. By the mountain-building record, they are roughly 280 million years older. Start with the rock. The oldest rocks at the Appalachian core formed more than one 1 billion years ago in Precambrian Three mountain-building events shaped the Appalachians, beginning around 480 million years ago. The Atlantic, it opened only about 200 million years ago as the supercontinent Pangea broke apart. The order is also hard to reverse. Britannica describes the collision of Africa and North America that built the Appalachians as part of Pangea's assembly. On that reading, the ocean had to wait for the supercontinent to split. Verdict, it checks out with one caveat. If Appalachian Mountains means the rocks and the mountain-building system, they beat the Atlantic by about 280 million Pigeons are dinosaurs. Under phylogenetic taxonomy, modern birds sit inside Dinosauria, right alongside theropods. The branch started around 160 million years ago in the late Jurassic with Maniraptora and theropods. Archaeopteryx, found in Germany in the 1860s, mixes both. Wings and flight feathers, but also claws, a toothed beak, and a long tail. Then bird-only bones turned up in non-bird theropods. Wishbones, wing attachment anatomy, enlarged breastbones. Feathered deinonychus relatives showed flightless theropods had feathers, too. Verdict checks out. Every other dinosaur lineage vanished about 66 million years ago. Birds survived and now number over 10,000 Sharks are older than trees sounds like internet nonsense. The fossil dates make the careful version genuinely true. Smithsonian Ocean reports shark or shark ancestor scales from about 420 million years ago with sharks evolving over 400 million years ago. A Nature study describes the earliest well-documented fossil forest at about 385 million years Subtract the dates and the shark lineage evidence leads that forest by roughly 35 million years. This does not mean today's sharks stayed unchanged. It compares evidence for an ancient lineage with evidence for forests. So, the verified headline survives with one precision upgrade. The shark lineage appears before the earliest well-documented forest. Cleopatra lived closer to the first iPhone than to the building of the Great Pyramid. Put down the dates. The Rosicrucian Egyptian Museum dates the start of the Giza pyramid complex to about 2560 BCE. The Metropolitan Museum of Art places Cleopatra's death in 30 BCE, more than two and a half millennia later. Apple introduced the iPhone in That gives us the modern end point for the comparison. Using those approximate dates, pyramid to Cleopatra is 2530 years. Cleopatra to iPhone is about 2036. So, yes, even allowing for approximate ancient dating, the iPhone is closer to Cleopatra by roughly five",
+   "hook_3s": "",
+   "first_5s": "Wombats poop cubes, not roughly square.",
+   "word_count": 545,
+   "words_per_sec": 2.58,
+   "outlier_ratio": 0.0
+  },
+  "FqNEtoybiDA": {
+   "id": "FqNEtoybiDA",
+   "url": "https://www.youtube.com/shorts/FqNEtoybiDA",
+   "error": "unavailable",
+   "outlier_ratio": null
+  },
+  "v1neeamJ54o": {
+   "id": "v1neeamJ54o",
+   "url": "https://www.youtube.com/shorts/v1neeamJ54o",
+   "title": "5 Facts That Will Break Your Sense of Time (#1 Sounds Fake)",
+   "channel": "FunFactz247",
+   "channel_url": "https://www.youtube.com/channel/UCGo0ETvCEamyqUeTSIWLbuQ",
+   "subscribers": 17,
+   "published": "20261028",
+   "views": 17,
+   "likes": 1,
+   "comments": 1,
+   "duration": 210,
+   "description": "Sharks are older than trees. And that's not even the strangest thing about time. 🦈🌳\nHere are 5 facts that will break your sense of time, counting down from #5 to the one that sounds completely fake but is 100% true.\n\n⏱️ Chapters\n0:00 Sharks are older than trees?!\n0:10 #5 Oxford is older than the Aztec Empire\n0:51 #4 Pluto hasn't finished one orbit since 1930\n1:30 #3 Mammoths were alive when the pyramids were built\n2:03 #2 T. rex lived closer to YOU than to Stegosaurus\n2:40 #1 Sharks are older than trees\n3:19 Which one broke your brain?\n\n👇 Which fact broke your brain the most? Tell me in the co",
+   "tags": [
+    "facts that break your sense of time",
+    "mind blowing facts",
+    "time facts",
+    "sharks older than trees",
+    "oxford older than aztecs",
+    "pluto orbit",
+    "pluto hasn't completed an orbit",
+    "mammoths pyramids",
+    "woolly mammoths still alive pyramids",
+    "t rex closer to us than stegosaurus",
+    "dinosaur facts",
+    "history facts",
+    "space facts",
+    "science facts",
+    "top 5 facts",
+    "countdown facts",
+    "did you know",
+    "fun facts",
+    "funfactz247"
+   ],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "Sharks are older than trees. And that's not even the strangest thing about time. Here are five facts that will break your sense of time, counting down to the one that broke mine. Number five. Oxford University is older than the Aztec Empire. Teaching was already happening at Oxford by 1096, making it the oldest university in the English-speaking world. Meanwhile, the Aztecs didn't found their great capital, Tenochtitlan, until 1325. That's more than 200 years later. And the Aztec Empire itself only began in 1428, more than three centuries after Oxford's first lectures. So, when you picture the Aztecs as ancient history, remember, students were already sitting in Oxford lecture halls. But that's nothing. Number four is about a world that hasn't finished a single Number four. Pluto hasn't completed a single orbit since we discovered it. It was discovered in 1930 by astronomer Clyde Tombaugh at Lowell Observatory in Arizona. But Pluto is so far from the sun that one trip around it takes about 248 Earth years. So, since the day we found it, Pluto has only traveled about 40% of the way around. It won't complete its first full lap since discovery until the year 2178. And in that time, it's already been demoted from planet to dwarf planet back in 2006. Okay, number three will make history feel a lot shorter. Number three. Woolly mammoths were still alive when the Great Pyramid of Giza was being built. The Great Pyramid was finished around 2560 BC. Most mammoths had vanished by then, but a small population survived on Wrangel Island in the Arctic Ocean. They lasted until roughly 4,000 years ago, centuries after the pyramid was finished. So, while Egyptians were stacking giant stone blocks, mammoths were still walking the Earth. But if you think that's a big gap, number two spans 80 million years. Number two. Tyrannosaurus Rex lived closer in time to you than to Stegosaurus. Stegosaurus roamed the earth around 150 million years ago in the late Jurassic. T-Rex didn't show up until about 68 million years ago at the very end of the That's a gap of around 80 million years between them. But T-Rex died out 66 million years years ago when the asteroid hit. So less time separates T-Rex from your phone than T-Rex from Stegosaurus. And number one, it sounds fake, but it's completely true. Number one. Sharks are older than trees. The earliest sharks appeared around 450 million years ago in the Ordovician Back then, the land looked like this. Bare rock, mud, and tiny mossy plants. Not a single tree. The first true trees didn't appear until around 385 million years ago. That means sharks were cruising the oceans for tens of millions of years before the first forest ever grew. Since then, sharks have survived multiple mass extinctions, including the one that wiped out T-Rex. They're older than trees, older than dinosaurs, and they're still here. Which one broke your brain the most? Tell me in the comments, and subscribe to Fun Facts 247 for more facts that sound fake, but aren't.",
+   "hook_3s": "Sharks are older than trees. And that's not even the strangest",
+   "first_5s": "Sharks are older than trees. And that's not even the strangest thing about time. Here are five",
+   "word_count": 516,
+   "words_per_sec": 2.48,
+   "outlier_ratio": 0.4
+  },
+  "mpbGuA0zWag": {
+   "id": "mpbGuA0zWag",
+   "url": "https://www.youtube.com/shorts/mpbGuA0zWag",
+   "title": "5 Facts That Sound Fake: Fossils, Animals and Time",
+   "channel": "Sounds Fake Checks Out",
+   "channel_url": "https://www.youtube.com/channel/UCIlhLOZgqDYjo-lLKB9GIQA",
+   "subscribers": 1,
+   "published": "20261115",
+   "views": 0,
+   "likes": null,
+   "comments": null,
+   "duration": 208,
+   "description": "5 source-checked stories, rebuilt for a full-width 16:9 evidence countdown with the approved original narration. Ranked by recorded 28-day YouTube views, not a claim that these are the biggest stories on YouTube.\n\nSource: https://www.arboretum.purdue.edu/explorer/definitions/berry/\nSource: https://www.kew.org/plants/garden-strawberry\nSource: https://www.mcgill.ca/oss/article/did-you-know/bananas-are-berries-raspberries-are-not\nSource: https://www.sciencedirect.com/science/article/abs/pii/S0019103519301253\nSource: https://www.britannica.com/place/Venus-planet\nSource: https://www.cfa.harvard.edu",
+   "tags": [
+    "birds are dinosaurs",
+    "science explained",
+    "sharks",
+    "weird facts"
+   ],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "Lightning can heat air to around 50,000 degrees Fahrenheit. That's roughly 28,000 Celsius. Now the sun, its visible surface, the layer called the photosphere, is about 5,500 degrees Celsius. Put the two approximate numbers side by side. The air around a lightning bolt can be much hotter than that glowing surface. How does that happen? Electrical resistance heats the air the lightning passes through. The temperature describes that heated air, not the charge itself. That sudden heating makes the air expand fast. The resulting sound wave is thunder, but don't overstate it. The sun's core is about 15 million degrees Celsius. Lightning wins against the surface only. Checks out. Mammoths outlived the Great Pyramid, not the mainland herds, but one isolated population on Wrangel Island in the Siberian Arctic, which survived until roughly 1700 BCE. The Great Pyramid of Khufu was built around 2560 BCE over roughly 20 years of his reign. Most woolly mammoths were long gone by then. Mainland populations vanished between 14 and 10,000 years ago, but island populations held on considerably longer than the mainland ones. A 2021 nature study of environmental DNA suggested Wrangel's mammoths persisted until as recently as 3,900 years ago. Radiocarbon dates on the remains run as late as 2192 BCE, reaching into Egyptian pharaonic history. Exact end dates differ by method, but every estimate here lands after the pyramid. Verdict, true for one remote island. Shuffle a deck properly, look at the order, and you have probably created something no human has seen before. Here is why. The first position can hold any of 52 cards. The next has 51 choices. Keep multiplying all the way down to one. Mathematicians write the total is 52 factorial. The result is about eight 0.658 * 10 to the 67th possible deck orders. There is a condition. The deck must be genuinely well mixed. A patterned shuffle is not random. With that caveat, the possibility space is so vast that your deck's exact order is overwhelmingly likely to be new. A day on Venus lasts longer than its year. Sounds fake. It checks out with one condition. Measured against distant stars, Venus takes about 243 Earth days to spin once, but it circles the sun in about 224.7 Earth days, so one spin outlasts one orbit. It also spins backward relative to its orbit, which is unusual among the planets. Here's the catch. Sunrise to sunrise, the day you'd actually experience is about 116 75 Earth days, shorter than the year. That slow backward spin means the sun rises roughly twice per Venusian year. Verdict, true for the star-based day, not the sunrise day. Botanically, a banana is a berry. A strawberry is not. A university botanical glossary lists bananas as berries despite how they look. The same glossary puts strawberries on the other side. They are not true botanical berries. Look closely at those little specks on the outside. They're usually called seeds. Each one is actually a tiny fruit called an achene. The juicy red part is accessory tissue. It holds those achenes together. It is not one ordinary berry fruit wall. That's the rule. Botanists judge how a flower's ovary develops into the fruit wall. The word berry in a name doesn't decide it. By that rule, tomatoes and grapes are true berries Calling strawberries berries in the kitchen is fine. Botany just uses a different system.",
+   "hook_3s": "",
+   "first_5s": "Lightning can heat air to around 50,000",
+   "word_count": 564,
+   "words_per_sec": 2.72,
+   "outlier_ratio": 0.0
+  },
+  "d526OqZX_LI": {
+   "id": "d526OqZX_LI",
+   "url": "https://www.youtube.com/shorts/d526OqZX_LI",
+   "title": "Every scam has one of these red flags: Ex-con man Frank Abagnale",
+   "channel": "CNBC Television",
+   "channel_url": "https://www.youtube.com/channel/UCrp_UI8XtuYfpiqluWLD7Lw",
+   "subscribers": 3420000,
+   "published": "20191205",
+   "views": 3492284,
+   "likes": 62777,
+   "comments": 4600,
+   "duration": 181,
+   "description": "In the past, con men were able to charm people one-on-one with a nice attire, great vocabulary and a likable personality. While they were captivating in person, modern day con artists are anything but that. They work remotely behind computers and in their pajamas, where it’s easy to take everything without any compassion. \n\nEx-con man Frank Abagnale, made famous in the movie \"Catch Me If You Can,\" says technology may have changed the ways scammers operate, but it has not changed how scams work. To spot them, there are two red flags that are in almost every scam.\n\nFlag one: Artists will say the",
+   "tags": [
+    "Invest in You",
+    "CNBC",
+    "Con man",
+    "con artists",
+    "catch me if you can",
+    "scam red flags",
+    "scam tricks",
+    "con artist flags",
+    "stealing money personal information",
+    "romance con"
+   ],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "back fifty years ago there were con men and that stood for confidence man they were well dressed they had a great vocabulary they were very likeable person and that's how they swindled you but they had to do that one-on-one they had to be standing in front of you the difference today fifty years later is that they're in the kitchen for the cup of coffee on their laptop in their pajamas in Moscow and that gets very scary so they will take you for everything you have without any compassion whatsoever most people know me from the movie catch me if you can you know between 1621 I'm personated airline pilot a doctor a lawyer I wrote two and a half million dollars worth of bad checks I was arrested when I was 21 years old when I was 26 years old the government offered to take me out of prison on the condition I go to work with an agency of the federal government for the remainder of my sentence I agreed I've been working with the FBI now for about 43 years in every scam no matter how sophisticated or how amateur there are two red flag the first red flag is at some point I'm gonna ask you to give me money and the money has to be immediately you have to give me a credit card right now on the phone you have to give me a bank account number you have to stay on the phone with me and go down to Walmart and buy a greendot card and then when you get through the cashier reading me the number on the back everything is this moment and the minute anyone's asking you for money and it's immediate that's a big red flag a perfect example of these romance scams that have doubled in the last two or three years you never met him you don't know who he really is and now he's asking you for $35,000 the other red flag is at some point in a conversation I'm gonna start asking you personal information so I may call and say I'm from your bank's fraud department we detected fraud on your credit card and I'll have a whole conversation with you but then before it ends I'll say to you mrs. Jones just to make sure you actually have your card in your possession can you turn it over and read the three digits to me on the back of the card so I'm gonna ask you for a social security number a date of birth personal information you didn't solicit that call you didn't solicit that email you have no idea who's on the other end of that phone you never want to part with any money or any information those are the two red flags and most important red flags to remember invest in you ready set grow CNBC and",
+   "hook_3s": "back fifty years ago there were con men and that stood",
+   "first_5s": "back fifty years ago there were con men and that stood for confidence man they were well",
+   "word_count": 491,
+   "words_per_sec": 3.0,
+   "outlier_ratio": 931.28
+  },
+  "ZgyU0LyWZ9M": {
+   "id": "ZgyU0LyWZ9M",
+   "url": "https://www.youtube.com/shorts/ZgyU0LyWZ9M",
+   "title": "You Can’t Con a Con Artist If You’re Also a Con Artist - Key & Peele",
+   "channel": "Key & Peele",
+   "channel_url": "https://www.youtube.com/channel/UCdN4aXTrHAtfgbVG9HjBmxQ",
+   "subscribers": 7380000,
+   "published": "20191021",
+   "views": 22950675,
+   "likes": 345579,
+   "comments": 11000,
+   "duration": 184,
+   "description": "Two con artists attempt to out-con each other. \n\nAbout Key & Peele: \nKey & Peele showcases the fearless wit of stars Keegan-Michael Key and Jordan Peele as the duo takes on everything from “Gremlins 2” to systemic racism. With an array of sketches as wide-reaching as they are cringingly accurate, the pair has created a bevy of classic characters, including Wendell, the players of the East/West Bowl and President Obama’s Anger Translator.\n \nSubscribe to Key & Peele: https://www.youtube.com/channel/UCdN4aXTrHAtfgbVG9HjBmxQ?sub_confirmation=1\n\nFor more original comedy, check out  @comedycentralor",
+   "tags": [
+    "Key & Peele",
+    "Key and Peele",
+    "Jordan Peele",
+    "Keegan-Michael Key",
+    "keey & peele",
+    "Key & Peele full episodes",
+    "key and peele show",
+    "kay and peele",
+    "con",
+    "cons",
+    "con artist",
+    "theft",
+    "robbery",
+    "credit cards",
+    "atm",
+    "sketch comedy",
+    "funny",
+    "funny video",
+    "comedy videos",
+    "funny jokes",
+    "funny clips",
+    "key and peele con artists",
+    "scam",
+    "scam artist",
+    "fail",
+    "failed scam",
+    "artist"
+   ],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "Excuse me, big man, big man, big man? Excuse me, big man, though. But big man. Okay, God bless you. I'll catch you on the up flip. Thank you, big man. [chuckles] - Hey, brother. - Hey. Can I ask you a question real quick though, brother man? Oh, see, that's good 'cause I was about to ask you a question right quick. Okay, so here's the deal, man. Crazy thing. My car ran out of gas about a mile up the road. That's why I was wondering if I could get a little bit of money, you know, just get a couple of gallons. Oh, that's crazy, 'cause you know what? This--my car had also broke down right up the road. I got my daughter here. She five. - Okay--oh, oh. - She sleeping in the car. I got to get back to her real quick. - Mm-hmm, mm-hmm. - So if you could help me out. Pssh, I was gonna ask you if you could help me. Oh--oh, okay. Let me just give you my wallet out here and show you my ID to let you know that I am straight up legits real. I ain't trying--trying to do nothing to nobody, okay. Okay, on the issue of legitimacy, - I too have an identification. - Okay. That's a employee ID from Borders bookstore. You see right here, I got my Bally's Total Fitness ID right there. Okay, okay. Shows you that I stay fit and conscientious and whatnot. You'll also notice that these other IDs I have in my hand have the same name on it, which makes you know that it is indeed me. Right there, okay. Okay, I too have multiple IDs, crescendoing in this. Dun da-da da. Yogurtland punch card. Okay, yeah, I see that right there. You see that right there. That is almost my ninth purchase, apparently, and you can't fake that. You get a free ten ounce yogurt for that. - Yeah, all right. - All right. So normally I would not ask another person for assistance, but our--our--our family is in a fiduciary crisis right now. Yeah. My wife is languishing in the hospital. She a construction worker, and what happened is she got struck in the face by a power line. Fried her whole head up. Burnt both her eyeballs out. She's getting eyeball replacement surgery as we speak. Oh, see, I also have a spousal injury crisis on my midst as well. Mm-hmm, mm-hmm, mm-hmm. My wife was in the astronaut program, making her a full-fledged astronaut. Okay, impressive. And she had gotten moon dust in her lungs. Inhaled, you don't wanna get-- That's never good. It's never good. - You don't want that. - Nah, nah. So maybe we could find a ATM or something like that. Okay, so where--yeah, perhaps if you-- Oh, look, that's one over there. - Oh, my gosh. - That's a ATM. What's--what's the chances of it? Let's go to that ATM. We should probably check that out. Yeah, let's just take a look right there. Oh, stay with me, brother. - Here we are. - Why, here we are. ATM machines that I did not know previously were here. All right. Two of them, no less. I'll tell you what we should do, though, man. - All right. - You give me the $20, okay. Yeah. I'll give you the $3 that's on my person. Yes? Then I will give you the $17 after. Then you give me that $17. I'll cut you a check for $100 just to cover that. You give me the change in cash. - Okay, okay, I feel that. - Why am I playing? I'm just gonna give you my ATM card so you know I'm legit. Sure, sure. Of course, of course. I'm gonna give you my ATM card so we both have something of value from the other person. All right. And your code is? It is 1...234. And yours, sir? - 1235. - Thank you. [ATMs buzzing and beeping] Could that--that is a Ralph's rewards card. Okay, that is a credit card placeholder you would find in a translucent sleeve in a brand new wallet. - Hey, excuse me, big man. - Hey, big man? Big man? - Hey, right quick, right quick. Can I ask you a question, biggest of men? I got a question right quick.",
+   "hook_3s": "Excuse big",
+   "first_5s": "Excuse me, big man, big man, big man? Excuse me,",
+   "word_count": 735,
+   "words_per_sec": 4.24,
+   "outlier_ratio": 18.36
+  },
+  "SWFj8hjwbxI": {
+   "id": "SWFj8hjwbxI",
+   "url": "https://www.youtube.com/shorts/SWFj8hjwbxI",
+   "title": "What Psychological Traits Does the Con Artist Look for in Victims?  | Big Think",
+   "channel": "Big Think",
+   "channel_url": "https://www.youtube.com/channel/UCvQECJukTDE2i6aCoMnS-Vg",
+   "subscribers": 9080000,
+   "published": "20160318",
+   "views": 106057,
+   "likes": 3219,
+   "comments": 270,
+   "duration": 217,
+   "description": "What Psychological Traits Does the Con Artist Look for in Victims?\nWatch the newest video from Big Think: https://bigth.ink/NewVideo\nJoin Big Think Edge for exclusive videos: https://bigth.ink/Edge\n---------------------------------------------------------------------------------- \nThe history of the term \"con artist\" illuminates some essential traits of this lamentable profession. Maria Konnikova explains that the first con artist was a Manhattan watch thief who would prey on the goodwill of his victims, asking to borrow their watch until the following day. Of course the watch was never return",
+   "tags": [
+    "Maria Konnikova",
+    "con artists",
+    "con",
+    "take advantage",
+    "confidence",
+    "New York City",
+    "Manhattan",
+    "money",
+    "Bernie Madoff",
+    "Machiavellianism",
+    "manipulation",
+    "legitimate",
+    "too good to be true",
+    "stock market",
+    "legit",
+    "invest",
+    "ask",
+    "questions",
+    "Big Think",
+    "BigThink",
+    "BigThink.com",
+    "Education",
+    "Educational",
+    "Lifelong Learning",
+    "EDU",
+    "new york city",
+    "manhattan",
+    "bernie madoff",
+    "machiavellianism",
+    "big think",
+    "bigthink",
+    "bigthink.com",
+    "education",
+    "educational",
+    "lifelong learning",
+    "edu",
+    "lamentable profession",
+    "own ends",
+    "watch thief"
+   ],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "one of the Hallmarks of the good con artist is that it never feels like they're taking advantage of you they are never taking anything from you you give it to them willingly so the actually the term confidence artist um came out of a man in the 1800s in New York City who would walk around on the streets of Manhattan um dressed as a very Dapper gentleman and he'd approach other like wise Dapper gentlemen and say have you the confidence in me to lend me your watch until tomorrow I mean what a strange request right and so much is lo it's such a loaded question you know what kind of a person are you what kind of a world and Society do we live in are you abiding by the gentleman's code of conduct you know are you going to trust me are you going to give me your confidence well people would give him their watches um and he obviously had no intention of ever giving them back um by the time that he was finally Cod he had lots of watches to his name and gave birth to the name confidence man you give them your confidence they don't take it you give them money they never take it from you I mean think about someone like Bernie maid off people had to beg to invest with him he would say no he would turn them away sometimes people waited for years before he finally accepted their money and he did it you know as if as if you were doing them a huge favor okay fine you know be I'll I'll take your money and they were so grateful please take more Bernie take more because he was doing them such a huge favor one of the Hallmarks of the confidence artist is something called melanism it has to do with manipulating people for your own ends getting them to do what you want them to do but without their knowledge so that they don't realize they're being manipulated so that they think that everything they're doing is of their own valtion people hate feeling manipulated the moment you think you're being manipulated you drop out you say hey no one tells me what to do who who are you to manipulate me and so the con doesn't work so the trick is how do I you know give you the germ of the idea so that you think it's your idea how do I set up a situation so that it's your proposal not my proposal so that you're the one who's in charge you would be shocked if anyone told you otherwise in fact often times when people say hey do you realize that this might be a con you'll laugh and you say absolutely not are you insane this is totally legitimate besides it was my idea we are fully capable of understanding that if something is too good to be true it is if it's happening to someone else but when it's happening to us we can't be objective because nothing is too good for us we deserve it so you know you might look at someone else and say what were your stock market returns last year that's a little bit crazy are you sure this guy's legit when it's happening to you you say oh oh I know how to pick them I invested my money with the right guy look at those returns see he knows what he's doing um and if someone tells you aren't those a bit too good you say what are you jealous that you didn't invest with him you probably are wishing you were in my shoes right now we don't listen to reason because we deserve it we're exceptional so we deserve exceptional things it's not too good to be true it's just good and when things are going well we don't ask questions we only ask questions when they're not going so well",
+   "hook_3s": "",
+   "first_5s": "",
+   "word_count": 674,
+   "words_per_sec": 3.21,
+   "outlier_ratio": 3.42
+  },
+  "6E5EQbKDuKE": {
+   "id": "6E5EQbKDuKE",
+   "url": "https://www.youtube.com/shorts/6E5EQbKDuKE",
+   "title": "CON MAN: Offical Trailer",
+   "channel": "Sony Pictures Entertainment",
+   "channel_url": "https://www.youtube.com/channel/UCz97F7dMxBNOfGYu3rx8aCw",
+   "subscribers": 8270000,
+   "published": "20180406",
+   "views": 60679,
+   "likes": 622,
+   "comments": 93,
+   "duration": 147,
+   "description": "Now on DVD & Digital: http://sonypictures.us/igPqQt\n\nThe true story of Barry Minkow, a charismatic teenager, turned business man, who became the youngest person ever to defraud Wall Street.\n\nSubscribe to Sony Pictures for exclusive video updates: http://bit.ly/SonyPicsSubscribe",
+   "tags": [
+    "Sony",
+    "Sony Pictures",
+    "Con Man",
+    "con man 2018 trailer",
+    "Official Trailer"
+   ],
+   "access": "page",
+   "fetched": "2026-11-19",
+   "transcript": "",
+   "hook_3s": "",
+   "first_5s": "",
+   "word_count": 0,
+   "words_per_sec": null,
+   "outlier_ratio": 1.03
+  },
+  "QkRfSL3LaZ8": {
+   "id": "QkRfSL3LaZ8",
+   "url": "https://www.youtube.com/shorts/QkRfSL3LaZ8",
+   "title": "Criminals using $20 'distraction' tactic to scam victims  | FOX 11 LA",
+   "channel": "FOX 11 Los Angeles",
+   "channel_url": "https://www.youtube.com/channel/UCHfF8wFnipMeDpJf8OmMxDg",
+   "subscribers": 1370000,
+   "published": "20250419",
+   "views": 3708018,
+   "likes": 30179,
+   "comments": 10000,
+   "duration": 148,
+   "description": "Sarah was targeted by scammers at a Ralphs grocery store in Van Nuys, resulting in the theft of thousands of dollars from her and her daughter’s bank accounts.\n\nSubscribe to FOX 11 on YouTube: https://www.youtube.com/channel/UCHfF8wFnipMeDpJf8OmMxDg\n\nWatch more FOX 11 on YouTube:\nPolice Chases: https://www.youtube.com/playlist?list=PLzQIUTzrLS1G-ozh3Gr_VH_pCAVzipyjb\nBrazen Crime: https://www.youtube.com/playlist?list=PLzQIUTzrLS1G5JxCcXBOLn1TvLLK2AYSv\nHomeless Crisis: https://www.youtube.com/playlist?list=PLzQIUTzrLS1FxqzL9-ydLX3UjdJyP2S5F",
+   "tags": [
+    "distraction scam",
+    "los angeles",
+    "$20",
+    "twenty dollar trick",
+    "20 trick"
+   ],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "It's your lucky day. You're so lucky. You're full of luck. It's your lucky day. No, it wasn't Sarah's lucky day. It was a setup for a classic $20 distraction scam. And by the time it was over, thousands had vanished from her bank account and her daughters. And this is the Ralphs I usually come to. On Wednesday, April 16th, Sarah went to Ralph's grocery store on Satakoy Street and Louise Avenue in Van Ice. As she was using her debit card to pay, a stranger approached her and said that I dropped $20 and I said, \"No, I don't think I did.\" And I was putting my pin into the machine and he came much closer to me and was kind of pushing the $20 into my wallet. You need to back up. Back off. It all happened in a matter of seconds. Sarah kept insisting and I'm like, \"No, this is yours. This isn't mine.\" As Sarah walked back to her car, the same man, now joined by a woman, followed her again, insisting she'd take the $20. They continued to invade her space. I knew it wasn't mine. The reason I was getting cash back was cuz all I had was a couple dollars. Sarah left the parking lot feeling weird about the encounter. She checked her wallet to see if maybe they had taken any of her cash. They hadn't, but something else was missing. My heart sank because my debit card wasn't there. Within 30 minutes, the scammers made multiple withdrawals at Chase Bank several miles away. In total, nearly $5,000 was taken from Sarah's account and her daughter Jennifer's, too, because their accounts are linked. My money is gone and I had just gotten paid, you know, and and I'm a teacher. I don't make a lot of money. I really don't. And what I make goes to the things I need and and we can't cover that right now. So, it's it's hard to know that someone can take what you have so easily. Jennifer filed a police report and shared the story online. She was stunned by the response. One after another, people commented the same thing had happened to them or their loved ones. It's a huge violation and you know, I just feel I mean like I'm looking over my shoulder everywhere I go. It just is horrible. Unfortunately, the description of the suspects is too vague and security footage has not yet been released. If you have been a victim of a similar scam or you know anything about this case, contact the LAPD.",
+   "hook_3s": "It's your lucky day. You're so lucky.",
+   "first_5s": "It's your lucky day. You're so lucky. You're full of luck. It's your lucky day.",
+   "word_count": 436,
+   "words_per_sec": 2.97,
+   "outlier_ratio": 862.33
+  },
+  "0Gg-Bjvm7L8": {
+   "id": "0Gg-Bjvm7L8",
+   "url": "https://www.youtube.com/shorts/0Gg-Bjvm7L8",
+   "error": "unavailable",
+   "outlier_ratio": null
+  },
+  "QneEpVQOZIM": {
+   "id": "QneEpVQOZIM",
+   "url": "https://www.youtube.com/shorts/QneEpVQOZIM",
+   "title": "The Greatest Scientific Hoax – How Piltdown Man Fooled the World",
+   "channel": "History’s Greatest Mysteries",
+   "channel_url": "https://www.youtube.com/channel/UCODyY8jDJM5rM5zCx-XL4YQ",
+   "subscribers": 3,
+   "published": "20250218",
+   "views": 455,
+   "likes": 4,
+   "comments": 1,
+   "duration": 196,
+   "description": "In 1912, scientists believed they had found the missing link between humans and apes—a discovery that would change everything we knew about human evolution. For 40 years, the Piltdown Man fossil was celebrated as proof of Britain’s place in evolutionary history.\n\nBut there was just one problem. It was fake.\n\nIn this video, we explore:\n✔️ How Piltdown Man fooled experts for decades\n✔️ Who was behind this scientific fraud (and why?)\n✔️ Why the world’s top scientists believed the hoax\n✔️ How this deception changed the way science verifies discoveries\n\nThe Piltdown Man scandal remains one of the g",
+   "tags": [
+    "Piltdown Man",
+    "fake fossil",
+    "scientific hoax",
+    "anthropology",
+    "evolution fraud",
+    "biggest scientific mistakes",
+    "fake history",
+    "science deception",
+    "history hoax",
+    "human evolution scam",
+    "Charles Dawson",
+    "missing link hoax",
+    "history exposed",
+    "fake discoveries",
+    "history's biggest lies"
+   ],
+   "access": "transcript",
+   "fetched": "2026-11-19",
+   "transcript": "it was hailed as the greatest discovery in anthropology a missing link between man and ape a skull that rewrote everything we knew about human evolution and yet it was all a lie in 1912 an amateur archaeologist named Charles dwson presented the world with an extraordinary find the skull supposedly discovered in a gravel pit in piltdown England bore the unmistakable blend of human and ape features it was by all accounts the proof scientists had been searching for the bridge between our ancient ancestors and modern humans the world celebrated museums enshrined it experts confirmed it and for 40 years piltdown man stood as a pillar of science but then the cracks began to form in 1953 scientists re-examined the the skull with more Advanced Techniques what they found was shocking the entire fossil was a hoax the skull of a medieval human the jaw of an orangutan teeth filed down to fit a Frankenstein creation planted and passed off as science the deception was so crude so laughably simple that it was almost impossible to believe that the world had been fooled for decades how could this happen how did so many Brilliant Minds The Very architects of modern science fall for such a blatant forgery the answer lies in human nature itself the early 20th century was a time of scientific rivalry the race to find the missing link the fossil that would prove Darwin's theory of evolution beyond all doubt was fierce Germany had neanderthals France had Crow magnon Britain had nothing until piltown man dorson a man with no formal scientific training claimed he had Unearthed the proof that Britain was home to the earliest humans the scientific community desperate for their own national discovery embraced him with open arms the desire to believe overpowered skepticism but who was behind the hoax was it Dawson himself a rogue scientist seeking fame or could it have been an elaborate prank one that spiraled out of control some even suspect Sir Arthur Conan Doyle the creator of Sherlock Holmes who lived nearby and had an interest in fossils the true perpetrator remains unknown to this day the piltdown man Scandal was a harsh lesson for science a reminder that even the most disciplined Minds can be blinded by bias and ambition it forced the scientific Community to re-evaluate their methods to demand stronger evidence to never take Discovery at face value and here's the chilling part what if there are more piltdown men out there how many other discoveries celebrated and unquestioned could be built on falsehoods the story of piltdown man is not just a cautionary tale it is a testament to the power of deception the fragility of truth and the lengths to which Humanity will go to rewrite",
+   "hook_3s": "",
+   "first_5s": "it was hailed as the greatest discovery in",
+   "word_count": 465,
+   "words_per_sec": 2.41,
+   "outlier_ratio": null
   }
  },
- "channels": {}
+ "channels": {
+  "https://www.youtube.com/channel/UC7rdg9K79JQUtvv754eQ6Xw": {
+   "median_views": 679.5,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCxFkyIhPxCfcDS0JUXCnptg": {
+   "median_views": null,
+   "n": 0,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCPJYfVTRwaTodC41UAQxL8g": {
+   "median_views": 1850.0,
+   "n": 10,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCr5qeBG9g7bGtMGyHG2GzbQ": {
+   "median_views": 126500.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCcF1_LhTdHqA7pGOCcUTB_Q": {
+   "median_views": 2000,
+   "n": 5,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCUBSgEyVNE4fHQAxAq8JQTQ": {
+   "median_views": 119,
+   "n": 9,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCVK3N9yauN37MlCMEwdi2QQ": {
+   "median_views": 204.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC-10RJ-pPyFfTsWDag_aF3Q": {
+   "median_views": 338.5,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC0qExy5ogQQG1bM98d1oYRg": {
+   "median_views": 20.5,
+   "n": 2,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCBkaJ8-pCLr43iGenYoWLNg": {
+   "median_views": 29,
+   "n": 1,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCqxTxVW4X_kBe6kGlhvvRkw": {
+   "median_views": 165.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC7U_dc8shvYKBXd6XUuEHEw": {
+   "median_views": null,
+   "n": 0,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCODyY8jDJM5rM5zCx-XL4YQ": {
+   "median_views": null,
+   "n": 0,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCVB83xFLoBep9RDpa33tvzQ": {
+   "median_views": 792.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC8nXzwiLJXFzBPiTOV5_lHg": {
+   "median_views": null,
+   "n": 0,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCxnLSEQY8dHfyA8upPTRgTw": {
+   "median_views": null,
+   "n": 0,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCUXqYwTCR6R3Wr-FkLTD4AQ": {
+   "median_views": 63000,
+   "n": 9,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCx7q4K0uZ_Z5ZQIhEh5Sgtw": {
+   "median_views": null,
+   "n": 0,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCZAGxCT-BRK1807STAkatcQ": {
+   "median_views": 464.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCUtJgf0XDwQa7KzKVSejnaQ": {
+   "median_views": 623.5,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCR6jQY6sBK1Nf4QVujcmK9Q": {
+   "median_views": null,
+   "n": 0,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCUGUnuN8tC_KUIm5uyHLzAQ": {
+   "median_views": 131.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw": {
+   "median_views": 23500.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCFhX7gLJhz7cBMSzIdSgpqg": {
+   "median_views": 5.5,
+   "n": 20,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCPJZtj9f3izcEBGu1rRAbqg": {
+   "median_views": 144.5,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCbp795tdA6n8uFpYNTkUyxQ": {
+   "median_views": 70,
+   "n": 29,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCoorwtAOFsPQQ03hCX-rLbQ": {
+   "median_views": 468,
+   "n": 21,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCpGGGC5gcs2lLpuJSM-_6qQ": {
+   "median_views": 2700.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCe6ye3l9WA4SdNkqgs0YeMA": {
+   "median_views": 191000.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC6sVYJfq6mzV-o4LV7ssL_w": {
+   "median_views": 198.0,
+   "n": 24,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCS6YDyiJdg7vhkxdaJAa2GA": {
+   "median_views": 14.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCkVXmSa-OmSLpYo_cFxkjiQ": {
+   "median_views": 33.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCXz6AkfDYPtxQ1aV4gzR16A": {
+   "median_views": 995,
+   "n": 27,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCaQzyr4MWn1b9W4TdpxxeKw": {
+   "median_views": 39000.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCxJQaLxWI9dBvHDQHWLy6yg": {
+   "median_views": 2.0,
+   "n": 28,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC72_jtcoeDmUvTChtCk8zFg": {
+   "median_views": 2250.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCDakTK4x1zJk2p5ZXyvsDbQ": {
+   "median_views": 5400.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A": {
+   "median_views": null,
+   "n": 0,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC9u3UqkoikJ9Nr8t4wvyNRQ": {
+   "median_views": 3900.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC4Adv7LPxCvPhI6fmXdRp-w": {
+   "median_views": null,
+   "n": 0,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCRdQXSYHC8w5RDxdp9ZAx5Q": {
+   "median_views": 1050.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCzMD8ezTwTLt8ldXALoIDfw": {
+   "median_views": 215.5,
+   "n": 6,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC1feBOg4BZsYzetgB7vhQ-A": {
+   "median_views": 1200,
+   "n": 23,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCOTA1_oiKnz8po1Rm3nDJPg": {
+   "median_views": 1550.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC5bKZHg4PzURMOWcvanl6nA": {
+   "median_views": 1400.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCOGuvK0sWCY-Vq9oQFwlAYg": {
+   "median_views": 633500.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCgez_QoXIEod39oRuOrYGEg": {
+   "median_views": null,
+   "n": 0,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCwNGPGhSNydgeaqjiY53jwA": {
+   "median_views": 322,
+   "n": 3,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCswFeroQMBWBdO9r9VTjDoA": {
+   "median_views": null,
+   "n": 0,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCWWFoBh748WCycfYfx4pW8g": {
+   "median_views": null,
+   "n": 0,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC45v_A6ParIGLq-AEwwxyxA": {
+   "median_views": 144.5,
+   "n": 4,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCp1vrNrehFTppTp2V1M92lw": {
+   "median_views": null,
+   "n": 0,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCrdjReBk7udOjojkOAip69g": {
+   "median_views": null,
+   "n": 0,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCAIXcH-yTTkwy_6yXjavd1Q": {
+   "median_views": 1250.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC86nYi749Y_FQ54l89xHqrQ": {
+   "median_views": 1050.0,
+   "n": 16,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCbX0T1VVmXqE-94oW5zXLeg": {
+   "median_views": 65.0,
+   "n": 26,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCDlz9C2bhSW6dcVn_PO5mYw": {
+   "median_views": 3250.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCGo0ETvCEamyqUeTSIWLbuQ": {
+   "median_views": 43,
+   "n": 27,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC8tHeghf4UlYb_jQQJUlMqA": {
+   "median_views": 679.5,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCLjCImxdjyBDhXhXf9YKv9g": {
+   "median_views": 53.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC53rlbuvLvWoGCP2iE_e1QQ": {
+   "median_views": null,
+   "n": 0,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCBU1mNLkmEN6SF2idCXl25w": {
+   "median_views": 1300.0,
+   "n": 12,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCGJohXRjL9IrpK2izA35F0g": {
+   "median_views": null,
+   "n": 0,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC8p1vwvWtl6T73JiExfWs1g": {
+   "median_views": 14500.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC7CMo7FPQa5Nvbtkkggrumg": {
+   "median_views": 714,
+   "n": 13,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCZGmHLDIEGpH52p3S5UyIdg": {
+   "median_views": 424.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCxcg0aSj7T_RZwnGyMtbtXg": {
+   "median_views": 638.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCpdd40wTC6Ll5inSZUUjZ3Q": {
+   "median_views": 1400,
+   "n": 19,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC8U4S5KAk1kRK9lOiWDXTSA": {
+   "median_views": null,
+   "n": 0,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCO3Um2PhY97SmLtqUuCsN3A": {
+   "median_views": 667.5,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCgg6ypWN3J0mDYcIpCBspNQ": {
+   "median_views": 9200.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCcKld-Rahg6sbfzhNg5ng1g": {
+   "median_views": 21,
+   "n": 3,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCc4nR5StOne4UwY1B_bqVlQ": {
+   "median_views": 290.5,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCJ7rY4k2oGwJMG1_mEg75VQ": {
+   "median_views": null,
+   "n": 0,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCWCH_3o-ZCL43mP74AT-9Qg": {
+   "median_views": 58.5,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCeOJTrtpWF-S9sS6OZCfdkg": {
+   "median_views": 106.5,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC11iCSch_o1qB_gtD5qb96Q": {
+   "median_views": null,
+   "n": 0,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCvQECJukTDE2i6aCoMnS-Vg": {
+   "median_views": 31000.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCbxjDfYwfF8RjYBp5htJ38Q": {
+   "median_views": 3850.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCp94Y_JHAtNXpZgB0Xk8THQ": {
+   "median_views": 138.5,
+   "n": 24,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC7b4BfLkJyvJMrXwDw7mMIA": {
+   "median_views": 2.5,
+   "n": 12,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCw_9KcoupDOpQgJwdmnxwiQ": {
+   "median_views": 171,
+   "n": 13,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCWqPRUsJlZaDp-PVbqEch9g": {
+   "median_views": 11000.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC1LgLSSnBvZ12bRRww--rZw": {
+   "median_views": 855.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCGS9EbQWC9ThdiXptjnM27g": {
+   "median_views": 25000.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC2xUZZGLwN50QLjFrh5g1pA": {
+   "median_views": 391.5,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCAGtBLQfq9iBxCEIqdn32CQ": {
+   "median_views": 5.0,
+   "n": 28,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC4pAfy9maNNSUJ7INIp0kcA": {
+   "median_views": 31.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC7F2QS7wk6Eq9Z4uabl5rmg": {
+   "median_views": 3100.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCdN4aXTrHAtfgbVG9HjBmxQ": {
+   "median_views": 1250000.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCaiyYqu-BbI1ivzOgRHaZ7w": {
+   "median_views": 2300.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCmjvfHgVn6h6j9gWqiVEAVg": {
+   "median_views": 354500.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCrp_UI8XtuYfpiqluWLD7Lw": {
+   "median_views": 3750.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCKKsQDFsNneXHPlOWOvz_BA": {
+   "median_views": 776.0,
+   "n": 10,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC75Fe5K7Cw-5VJsTOiMpowA": {
+   "median_views": 7750.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC9wVhPvTAge4pE7-C6B9fOw": {
+   "median_views": 979.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCHfF8wFnipMeDpJf8OmMxDg": {
+   "median_views": 4300.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q": {
+   "median_views": 8250.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC6saHv8J7J4sL3o9W6qMzRw": {
+   "median_views": 496.5,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCwLyIyaYq_BCSBTFriTPXiw": {
+   "median_views": null,
+   "n": 0,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCtRmkX39cQADLUQ58AzRxbw": {
+   "median_views": 5900.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCJSurANegTSdkCLHfLsderw": {
+   "median_views": 770,
+   "n": 29,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCRxM-ijE2UNoajgoAiDwG8g": {
+   "median_views": null,
+   "n": 0,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCqYioYRR5OpS60mmLTVxfcQ": {
+   "median_views": 713.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCq7-Jdgw4NxokAuKjfoGdPg": {
+   "median_views": 13500.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg": {
+   "median_views": 5000.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCkEcIJtU_OvXGVaRtDqETTw": {
+   "median_views": 11500.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCiy-XPoWThicpM30RGF_wbw": {
+   "median_views": 1700,
+   "n": 3,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCce0spqryjzE4k1tU_Mk7KQ": {
+   "median_views": 52000.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCDTFKi3--1Mf2aE9kaJ-Sig": {
+   "median_views": 12000.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCs6bj7e__tT_m3s8xxhazhA": {
+   "median_views": 7450.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC3Yl9qHbAg8aiSv77URGf_A": {
+   "median_views": 125.0,
+   "n": 2,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCWwftLKUZNM90rYMoBKPSGA": {
+   "median_views": 477.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCAq2TYLvM6jbrpAjvHfHQKQ": {
+   "median_views": 745.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCJ5kKhnQUbZmABUeJJvj9aw": {
+   "median_views": 3200.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCV6FT5DGLXA9CSr3BXs7PYg": {
+   "median_views": 39,
+   "n": 27,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC7IDEWnW3cSTxynQhCqiXFQ": {
+   "median_views": 104.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCM9eULJJgakJBJffySmuBwg": {
+   "median_views": 33.5,
+   "n": 12,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCIlhLOZgqDYjo-lLKB9GIQA": {
+   "median_views": 38,
+   "n": 23,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCn_Y__nJ-RW9CkytVujATNA": {
+   "median_views": 332.5,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCZd9lWxuRgn31tN7yEik91g": {
+   "median_views": 279,
+   "n": 9,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCk6bzmg_J7x0AjB-nJuPrWw": {
+   "median_views": null,
+   "n": 0,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCzffMGDQfY2U2rI5w1TOq-A": {
+   "median_views": 23.0,
+   "n": 28,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCDWdH9X1dpKUNEAusxtefvA": {
+   "median_views": 763,
+   "n": 29,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCuHjcqS06bUCZ4eQ5fCe6Dw": {
+   "median_views": 2950.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC9fpH5VplAjr4wRYqSLgpLA": {
+   "median_views": 368.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCz97F7dMxBNOfGYu3rx8aCw": {
+   "median_views": 59000.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCG-1s5GCRCkUSNpP2XHBDUA": {
+   "median_views": 203.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCHOZb9onmXBF1Fo9Jd0-n_w": {
+   "median_views": null,
+   "n": 0,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCbJX5vovuT4jdN74FRlNKMA": {
+   "median_views": 772.5,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC-jl_9a9kEQdBpfsCD3mtvA": {
+   "median_views": 627.5,
+   "n": 22,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC2_OOKhHGnTFuIilB0eBZAg": {
+   "median_views": 359.5,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC0NjCXH87SR_8oMWoENTPpA": {
+   "median_views": 1800.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCBiFHz4eF7EYvC4-de5usxw": {
+   "median_views": null,
+   "n": 0,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC_W6IfzdWulQI2R-PerJp-Q": {
+   "median_views": 595.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCjsj2kstRPWuDxH3KJgiGvw": {
+   "median_views": 83.5,
+   "n": 28,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCau88zM9qCvzEt30KL1beAQ": {
+   "median_views": 91500.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UC72UssJ1DNQcakZXm-B2-zw": {
+   "median_views": 1300.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCajXeitgFL-rb5-gXI-aG8Q": {
+   "median_views": 11000.0,
+   "n": 30,
+   "fetched": "2026-11-19"
+  },
+  "https://www.youtube.com/channel/UCkozF9nUyXYPJSiS4x2gueA": {
+   "median_views": 649.0,
+   "n": 20,
+   "fetched": "2026-11-19"
+  }
+ }
 }
