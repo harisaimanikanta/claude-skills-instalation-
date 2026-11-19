@@ -6,6 +6,7 @@ Claude Code skills, installed at the project level in `.claude/skills/`. Claude 
 
 | Skill | What it does |
 |---|---|
+| [`historical-wtf-shorts`](.claude/skills/historical-wtf-shorts/SKILL.md) | `/historical-wtf-shorts`: researches and fact-checks bizarre-but-true history stories, then writes 45–90 s YouTube Shorts packages (five scored hooks, voiceover, storyboard, editing notes, publishing kit, quality report). Example: [Eiffel Tower test](.claude/skills/historical-wtf-shorts/research/scripts/eiffel-tower-lustig/script.md). |
 | [`threejs-3d-video`](.claude/skills/threejs-3d-video/SKILL.md) | Builds 3D animated scenes with Three.js and renders them to MP4 or PNG, frame by frame, using headless Chromium + ffmpeg. |
 
 ## Quick start
